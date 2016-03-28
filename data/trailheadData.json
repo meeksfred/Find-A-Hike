@@ -25,15 +25,15 @@
   },
   {
     "rating": "2.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Mount Blanchard",
     "lat": "48.6113",
     "lng": "-122.4231",
-    "elevGain": null,
+    "elevGain": "",
     "id": "mount-blanchard",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -163,9 +163,9 @@
     "name": "Snoqualmie Valley Trail",
     "lat": "47.6845",
     "lng": "-121.9286",
-    "elevGain": null,
+    "elevGain": "",
     "id": "snoqualmie-valley-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
@@ -205,51 +205,51 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Snow Creek",
     "lat": "47.9368",
     "lng": "-123.0072",
-    "elevGain": null,
+    "elevGain": "",
     "id": "snow-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Skyline",
     "lat": "47.5755",
     "lng": "-123.6478",
-    "elevGain": null,
+    "elevGain": "",
     "id": "skyline-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "lov",
     "name": "Slide Lake",
     "lat": "48.4261",
     "lng": "-121.3689",
-    "elevGain": null,
+    "elevGain": "",
     "id": "slide-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Snowy Creek",
     "lat": "47.8273",
     "lng": "-120.9527",
-    "elevGain": null,
+    "elevGain": "",
     "id": "snowy-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.2",
@@ -283,21 +283,21 @@
     "name": "Soos Creek Trail",
     "lat": "47.3896",
     "lng": "-122.1515",
-    "elevGain": null,
+    "elevGain": "",
     "id": "soos-creek-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sol Duc River",
     "lat": "47.9551",
     "lng": "-123.8353",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sol-duc-river",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.9",
@@ -445,15 +445,15 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "South Fork Agnes Creek",
     "lat": "48.3796",
     "lng": "-120.8320",
-    "elevGain": null,
+    "elevGain": "",
     "id": "south-fork-agnes-creek-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -547,9 +547,9 @@
     "name": "South Fork Silver Creek Trail ",
     "lat": "48.9115",
     "lng": "-117.5010",
-    "elevGain": null,
+    "elevGain": "",
     "id": "south-fork-silver-creek-trail-123",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -613,27 +613,27 @@
   },
   {
     "rating": "2.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Strawberry Mountain",
     "lat": "46.3468",
     "lng": "-122.0348",
-    "elevGain": null,
+    "elevGain": "",
     "id": "strawberry-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "lfv",
     "name": "Stirrup Lake",
     "lat": "47.3023",
     "lng": "-121.4044",
-    "elevGain": null,
+    "elevGain": "",
     "id": "stirrup-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -645,7 +645,7 @@
     "lng": "-121.7537",
     "elevGain": "625",
     "id": "steamboat-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -655,21 +655,21 @@
     "name": "Spider Gap",
     "lat": "48.0825",
     "lng": "-120.8351",
-    "elevGain": null,
+    "elevGain": "",
     "id": "spider-gap-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Strawberry Mountain",
     "lat": "48.8526",
     "lng": "-119.0491",
-    "elevGain": null,
+    "elevGain": "",
     "id": "strawberry",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -739,9 +739,9 @@
     "name": "South Tiger Traverse",
     "lat": "47.4434",
     "lng": "-121.9760",
-    "elevGain": null,
+    "elevGain": "",
     "id": "south-tiger-traverse",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -799,9 +799,9 @@
     "name": "May Valley Trail",
     "lat": "47.4807",
     "lng": "-122.0554",
-    "elevGain": null,
+    "elevGain": "",
     "id": "squak-mountain-may-valley-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -829,13 +829,13 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "lvs",
     "name": "Star Peak",
     "lat": "48.2872",
     "lng": "-120.3283",
-    "elevGain": null,
+    "elevGain": "",
     "id": "star-peak",
     "elevMax": "8690"
   },
@@ -853,27 +853,27 @@
   },
   {
     "rating": "2.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Stegosaurus Butte",
     "lat": "47.5475",
     "lng": "-121.5410",
-    "elevGain": null,
+    "elevGain": "",
     "id": "stegosaurus-butte",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Steven's Pass Nordic Center",
     "lat": "47.7727",
     "lng": "-121.0143",
-    "elevGain": null,
+    "elevGain": "",
     "id": "stevens-pass-nordic-center",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.7",
@@ -937,15 +937,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "cva",
     "name": "Leque Island - Stanwood Levee Trail",
     "lat": "48.2309",
     "lng": "-122.3823",
-    "elevGain": null,
+    "elevGain": "",
     "id": "stanwood-levee-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -981,7 +981,7 @@
     "lng": "-122.3769",
     "elevGain": "300",
     "id": "stimpson-nature-reserve",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
@@ -1021,27 +1021,27 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "St'auk Mountain",
     "lat": "48.0371",
     "lng": "-121.4790",
-    "elevGain": null,
+    "elevGain": "",
     "id": "stauk-mountain",
     "elevMax": "4715"
   },
   {
     "rating": "1.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "d",
     "name": "Stickpin",
     "lat": "48.7609",
     "lng": "-118.4328",
-    "elevGain": null,
+    "elevGain": "",
     "id": "stick-pin",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -1053,29 +1053,29 @@
     "lng": "-121.6298",
     "elevGain": "2566",
     "id": "squire-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Stafford Creek",
     "lat": "47.3781",
     "lng": "-120.8248",
-    "elevGain": null,
+    "elevGain": "",
     "id": "stafford-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Spinnaker Peak Snowshoe",
     "lat": "47.7833",
     "lng": "-121.1103",
-    "elevGain": null,
+    "elevGain": "",
     "id": "spinnaker-peak-snowshoe",
     "elevMax": "5645"
   },
@@ -1089,7 +1089,7 @@
     "lng": "-120.4392",
     "elevGain": "5500",
     "id": "stormy-mountain-summit",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -1117,27 +1117,27 @@
   },
   {
     "rating": "2.3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Spanish Creek",
     "lat": "48.8848",
     "lng": "-119.8667",
-    "elevGain": null,
+    "elevGain": "",
     "id": "spanish-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "rl",
     "name": "Southwest County Park",
     "lat": "47.8367",
     "lng": "-122.3402",
-    "elevGain": null,
+    "elevGain": "",
     "id": "southwest-county-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
@@ -1147,9 +1147,9 @@
     "name": "Spring Lake/Lake Desire Park",
     "lat": "47.4375",
     "lng": "-122.0850",
-    "elevGain": null,
+    "elevGain": "",
     "id": "spring-lake-lake-desire-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.7",
@@ -1159,9 +1159,9 @@
     "name": "South Tiger Powerline",
     "lat": "47.4544",
     "lng": "-121.9783",
-    "elevGain": null,
+    "elevGain": "",
     "id": "south-tiger-powerline",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.2",
@@ -1237,27 +1237,27 @@
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "South Ingalls Peak",
     "lat": "47.4359",
     "lng": "-120.9372",
-    "elevGain": null,
+    "elevGain": "",
     "id": "south-ingalls-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Wonderland Trail - Stevens Canyon",
     "lat": "46.7657",
     "lng": "-121.6355",
-    "elevGain": null,
+    "elevGain": "",
     "id": "stevens-canyon-segment-of-wonderland-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -1297,27 +1297,27 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sucia Island",
     "lat": "48.7528",
     "lng": "-122.9043",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sucia-island",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sultan Gorge",
     "lat": "47.9793",
     "lng": "-121.6909",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sultan-gorge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -1333,15 +1333,15 @@
   },
   {
     "rating": "4.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "spd",
     "name": "Summit Trail",
     "lat": "47.5045",
     "lng": "-122.0469",
-    "elevGain": null,
+    "elevGain": "",
     "id": "summit-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -1387,21 +1387,21 @@
     "name": "Tarbell Trail",
     "lat": "45.7757",
     "lng": "-122.3378",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tarbell-trail",
     "elevMax": "4120"
   },
   {
     "rating": "3.3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "s",
     "name": "Tamanos Mountain",
     "lat": "46.8938",
     "lng": "-121.5792",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tamanos-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.2",
@@ -1423,9 +1423,9 @@
     "name": "Talus Rock Trail",
     "lat": "47.5198",
     "lng": "-121.9707",
-    "elevGain": null,
+    "elevGain": "",
     "id": "talus-rock-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -1435,9 +1435,9 @@
     "name": "Swift Creek",
     "lat": "48.7648",
     "lng": "-121.6699",
-    "elevGain": null,
+    "elevGain": "",
     "id": "swift-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
@@ -1449,7 +1449,7 @@
     "lng": "-118.5590",
     "elevGain": "0",
     "id": "swanson-lakes",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.1",
@@ -1477,27 +1477,27 @@
   },
   {
     "rating": "2.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Surprise Creek",
     "lat": "47.7108",
     "lng": "-121.1587",
-    "elevGain": null,
+    "elevGain": "",
     "id": "surprise-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sunset Park and Golden Lakes",
     "lat": "46.9306",
     "lng": "-121.8672",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sunset-park-and-golden-lakes",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
@@ -1537,27 +1537,27 @@
   },
   {
     "rating": "3.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sunrise Mine",
     "lat": "48.0259",
     "lng": "-121.4795",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sunrise-mine",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sunset Mine",
     "lat": "47.8592",
     "lng": "-121.4648",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sunset-mine",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -1597,39 +1597,39 @@
   },
   {
     "rating": "2.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Swamp Lake",
     "lat": "46.8569",
     "lng": "-121.3203",
-    "elevGain": null,
+    "elevGain": "",
     "id": "swamp-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sugarloaf",
     "lat": "47.7574",
     "lng": "-120.5281",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sugarloaf",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sun Mountain Trails",
     "lat": "48.4732",
     "lng": "-120.2974",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sun-mountain-trails",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.6",
@@ -1681,15 +1681,15 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sunday Lake",
     "lat": "47.6467",
     "lng": "-121.5956",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sunday-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -1723,9 +1723,9 @@
     "name": "Swauk Forest Discovery Trail",
     "lat": "47.3354",
     "lng": "-120.5790",
-    "elevGain": null,
+    "elevGain": "",
     "id": "swauk-forest-discovery-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -1753,15 +1753,15 @@
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Tahoma Creek",
     "lat": "46.7838",
     "lng": "-121.8871",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tahoma-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1.5",
@@ -1777,15 +1777,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Sweet Chariot",
     "lat": "48.4272",
     "lng": "-121.3700",
-    "elevGain": null,
+    "elevGain": "",
     "id": "sweet-chariot",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.7",
@@ -1837,15 +1837,15 @@
   },
   {
     "rating": "4.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Surprise Lake",
     "lat": "47.7073",
     "lng": "-121.1568",
-    "elevGain": null,
+    "elevGain": "",
     "id": "surprise-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
@@ -1885,15 +1885,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Surveyors Lake Snowshoe",
     "lat": "47.3907",
     "lng": "-121.3964",
-    "elevGain": null,
+    "elevGain": "",
     "id": "surveyors-lake-snowshoe",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -1909,15 +1909,15 @@
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Tired Creek",
     "lat": "47.4575",
     "lng": "-121.0705",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tired-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -1929,7 +1929,7 @@
     "lng": "-117.6277",
     "elevGain": "2000",
     "id": "third-creek-3100",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.2",
@@ -2023,9 +2023,9 @@
     "name": "Top Lake",
     "lat": "47.8548",
     "lng": "-120.8447",
-    "elevGain": null,
+    "elevGain": "",
     "id": "top-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.4",
@@ -2097,7 +2097,7 @@
     "lng": "-121.1742",
     "elevGain": "3400",
     "id": "thomas-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -2125,15 +2125,15 @@
   },
   {
     "rating": "2.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "mp",
     "name": "Three Brothers Mountain",
     "lat": "47.3614",
     "lng": "-120.8198",
-    "elevGain": null,
+    "elevGain": "",
     "id": "three-brothers-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -2143,9 +2143,9 @@
     "name": "Tacoma Nature Center Interpretive Walks",
     "lat": "47.2414",
     "lng": "-122.4921",
-    "elevGain": null,
+    "elevGain": "",
     "id": "the-tacoma-nature-center",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.1",
@@ -2179,21 +2179,21 @@
     "name": "Thompson Lake",
     "lat": "47.4248",
     "lng": "-121.5835",
-    "elevGain": null,
+    "elevGain": "",
     "id": "thompson-lake",
     "elevMax": "4200.0"
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "The Kettles Trail System of Whidbey Island",
     "lat": "48.2270",
     "lng": "-122.7403",
-    "elevGain": null,
+    "elevGain": "",
     "id": "the-kettles-trail-system-of-whidbey-island",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.1",
@@ -2275,21 +2275,21 @@
     "name": "Tolt-MacDonald Park",
     "lat": "47.6442",
     "lng": "-121.9269",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tolt-mcdonald-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Thorp Creek",
     "lat": "47.3570",
     "lng": "-121.1861",
-    "elevGain": null,
+    "elevGain": "",
     "id": "thorp-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -2329,39 +2329,39 @@
   },
   {
     "rating": "3.6",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Tiger Mountain Road",
     "lat": "47.4659",
     "lng": "-121.9289",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tiger-mountain-road",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Ten Mile",
     "lat": "48.5185",
     "lng": "-118.7380",
-    "elevGain": null,
+    "elevGain": "",
     "id": "ten-mile-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "s",
     "name": "The Castle",
     "lat": "46.7666",
     "lng": "-121.6991",
-    "elevGain": null,
+    "elevGain": "",
     "id": "the-castle",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -2377,15 +2377,15 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Ten Mile",
     "lat": "48.1992",
     "lng": "-120.7514",
-    "elevGain": null,
+    "elevGain": "",
     "id": "ten-mile",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -2419,21 +2419,21 @@
     "name": "Mount Spokane - Trail 130",
     "lat": "47.9048",
     "lng": "-117.1027",
-    "elevGain": null,
+    "elevGain": "",
     "id": "trail-130",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Trap Lake",
     "lat": "47.7185",
     "lng": "-121.1099",
-    "elevGain": null,
+    "elevGain": "",
     "id": "trap-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -2479,21 +2479,21 @@
     "name": "Trail of the Cedars",
     "lat": "48.6760",
     "lng": "-121.2433",
-    "elevGain": null,
+    "elevGain": "",
     "id": "trail-of-the-cedars",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Trapper Peak",
     "lat": "48.6511",
     "lng": "-121.3412",
-    "elevGain": null,
+    "elevGain": "",
     "id": "trapper-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -2503,9 +2503,9 @@
     "name": "Traditional Knowledge Trail",
     "lat": "47.5157",
     "lng": "-121.8446",
-    "elevGain": null,
+    "elevGain": "",
     "id": "traditional-knowledge-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -2541,7 +2541,7 @@
     "lng": "-119.2865",
     "elevGain": "100",
     "id": "trail-lake-coulee",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -2551,7 +2551,7 @@
     "name": "Trapper Creek",
     "lat": "45.8817",
     "lng": "-121.9836",
-    "elevGain": null,
+    "elevGain": "",
     "id": "trapper-creek",
     "elevMax": "4607"
   },
@@ -2581,27 +2581,27 @@
   },
   {
     "rating": "2.3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Twin Lakes (North Cascades)",
     "lat": "48.9435",
     "lng": "-121.6625",
-    "elevGain": null,
+    "elevGain": "",
     "id": "twin-lakes-2",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Trout Creek",
     "lat": "48.6983",
     "lng": "-120.6368",
-    "elevGain": null,
+    "elevGain": "",
     "id": "trout-creek-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -2617,15 +2617,15 @@
   },
   {
     "rating": "2.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Troublesome Creek Nature",
     "lat": "47.8983",
     "lng": "-121.4014",
-    "elevGain": null,
+    "elevGain": "",
     "id": "troublesome-creek-nature",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -2653,15 +2653,15 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "lwm",
     "name": "Tunnel Creek",
     "lat": "47.7174",
     "lng": "-121.1091",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tunnel-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -2677,15 +2677,15 @@
   },
   {
     "rating": "2.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Tull Canyon",
     "lat": "47.9620",
     "lng": "-123.1124",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tull-canyon",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.2",
@@ -2713,27 +2713,27 @@
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Twin Peaks",
     "lat": "47.3821",
     "lng": "-120.4433",
-    "elevGain": null,
+    "elevGain": "",
     "id": "twin-peaks",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Tronsen Head 5980'",
     "lat": "47.4327",
     "lng": "-120.5983",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tronsen-head-5980",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.1",
@@ -2749,15 +2749,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Twin Lakes (Monte Cristo)",
     "lat": "48.0251",
     "lng": "-121.4437",
-    "elevGain": null,
+    "elevGain": "",
     "id": "twin-lakes-monte-cristo",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.2",
@@ -2869,15 +2869,15 @@
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Twin Peaks (Horse Lake Mountain)",
     "lat": "47.3900",
     "lng": "-120.4247",
-    "elevGain": null,
+    "elevGain": "",
     "id": "twin-peaks-horse-lake-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -2893,15 +2893,15 @@
   },
   {
     "rating": "5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Tumwater Botanical Area",
     "lat": "47.6567",
     "lng": "-120.7211",
-    "elevGain": null,
+    "elevGain": "",
     "id": "tumwater-botanical-area-road-7903",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.7",
@@ -2953,7 +2953,7 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "cva",
     "name": "Welts-Samish Restoration Site",
@@ -2961,7 +2961,7 @@
     "lng": "-122.4871",
     "elevGain": "30",
     "id": "welts-samish-restoration-site",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -2973,43 +2973,43 @@
     "lng": "-118.9027",
     "elevGain": "0",
     "id": "wallula-habitat-management-unit",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.6",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Vanson Ridge",
     "lat": "46.4176",
     "lng": "-122.1724",
-    "elevGain": null,
+    "elevGain": "",
     "id": "vanson-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "rmaekd",
     "name": "Wenaha River Trail",
     "lat": "46.2061",
     "lng": "-117.7059",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wenaha-river-trail-3106",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Waptus Pass",
     "lat": "47.4842",
     "lng": "-121.2029",
-    "elevGain": null,
+    "elevGain": "",
     "id": "waptus-pass",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -3021,17 +3021,17 @@
     "lng": "-121.6820",
     "elevGain": "1500",
     "id": "wallace-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vs",
     "name": "Voodoo Peak",
     "lat": "48.1723",
     "lng": "-121.5847",
-    "elevGain": null,
+    "elevGain": "",
     "id": "voodoo-peak",
     "elevMax": "5198"
   },
@@ -3049,7 +3049,7 @@
   },
   {
     "rating": "3.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vp",
     "name": "Wedge Mountain",
@@ -3061,15 +3061,15 @@
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Wahpenayo Peak",
     "lat": "46.7465",
     "lng": "-121.7940",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wahpenayo-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.7",
@@ -3079,19 +3079,19 @@
     "name": "Verne Samuelson Trail",
     "lat": "48.0946",
     "lng": "-123.4556",
-    "elevGain": null,
+    "elevGain": "",
     "id": "verne-samuelson-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vsp",
     "name": "Webb Mountain",
     "lat": "47.4345",
     "lng": "-121.6369",
-    "elevGain": null,
+    "elevGain": "",
     "id": "webb-mountain",
     "elevMax": "5335"
   },
@@ -3145,15 +3145,15 @@
   },
   {
     "rating": "2.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Walupt Lake",
     "lat": "46.4236",
     "lng": "-121.4725",
-    "elevGain": null,
+    "elevGain": "",
     "id": "walupt-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -3181,15 +3181,15 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "War Creek",
     "lat": "48.3648",
     "lng": "-120.4181",
-    "elevGain": null,
+    "elevGain": "",
     "id": "war-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -3201,7 +3201,7 @@
     "lng": "-122.6088",
     "elevGain": "100",
     "id": "vendovi-island-trails",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -3213,7 +3213,7 @@
     "lng": "-120.1323",
     "elevGain": "0",
     "id": "twisp-river-rearing-ponds",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
@@ -3223,45 +3223,45 @@
     "name": "Upper Roaring Creek",
     "lat": "47.7510",
     "lng": "-120.8940",
-    "elevGain": null,
+    "elevGain": "",
     "id": "upper-roaring-creek",
     "elevMax": "6050"
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Way Creek",
     "lat": "47.3414",
     "lng": "-120.9032",
-    "elevGain": null,
+    "elevGain": "",
     "id": "way-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Wagon Road",
     "lat": "47.4255",
     "lng": "-121.4299",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wagon-road-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Upper Mad River",
     "lat": "47.8362",
     "lng": "-120.5722",
-    "elevGain": null,
+    "elevGain": "",
     "id": "upper-mad-river",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -3301,15 +3301,15 @@
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Welldigger's Ass",
     "lat": "47.7725",
     "lng": "-121.0741",
-    "elevGain": null,
+    "elevGain": "",
     "id": "welldiggers-ass",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -3325,15 +3325,15 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Upper Lyman Lake",
     "lat": "48.1975",
     "lng": "-120.9465",
-    "elevGain": null,
+    "elevGain": "",
     "id": "upper-lyman-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "5",
@@ -3349,15 +3349,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Volcanic Neck",
     "lat": "47.3900",
     "lng": "-120.8724",
-    "elevGain": null,
+    "elevGain": "",
     "id": "volcanic-neck",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.9",
@@ -3379,21 +3379,21 @@
     "name": "Washington Pass Overlook",
     "lat": "48.5245",
     "lng": "-120.6581",
-    "elevGain": null,
+    "elevGain": "",
     "id": "washington-pass-overlook",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "West Granite Mountain",
     "lat": "47.4235",
     "lng": "-121.4922",
-    "elevGain": null,
+    "elevGain": "",
     "id": "w-granite-mt",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1",
@@ -3477,7 +3477,7 @@
     "lng": "-123.6006",
     "elevGain": "400",
     "id": "upper-lake-mills",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.2",
@@ -3541,7 +3541,7 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Union Peak",
@@ -3571,9 +3571,9 @@
     "name": "Breazeale Interpretive Center",
     "lat": "48.4837",
     "lng": "-122.4777",
-    "elevGain": null,
+    "elevGain": "",
     "id": "upland-trail-breazeale-interpretive-center",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -3585,7 +3585,7 @@
     "lng": "-119.3557",
     "elevGain": "100",
     "id": "umatilla-rock-monument-coulee",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -3595,21 +3595,21 @@
     "name": "Union Bay Nature Area",
     "lat": "47.6580",
     "lng": "-122.2906",
-    "elevGain": null,
+    "elevGain": "",
     "id": "union-bay-nature-area",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Umtanum Ridge Crest",
     "lat": "46.8996",
     "lng": "-120.6435",
-    "elevGain": null,
+    "elevGain": "",
     "id": "umtanum-ridge-crest",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -3643,21 +3643,21 @@
     "name": "Willapa National Wildlife Refuge - Bear River",
     "lat": "46.3768",
     "lng": "-123.9651",
-    "elevGain": null,
+    "elevGain": "",
     "id": "willapa-national-wildlife-refuge-bear-river",
     "elevMax": "10"
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "l",
     "name": "Williams Creek",
     "lat": "48.3972",
     "lng": "-120.4672",
-    "elevGain": null,
+    "elevGain": "",
     "id": "williams-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.2",
@@ -3685,15 +3685,15 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Willaby Creek",
     "lat": "47.4670",
     "lng": "-123.8455",
-    "elevGain": null,
+    "elevGain": "",
     "id": "willaby-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -3703,9 +3703,9 @@
     "name": "Willard Springs Trail",
     "lat": "45.9654",
     "lng": "-121.3420",
-    "elevGain": null,
+    "elevGain": "",
     "id": "willard-springs-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.2",
@@ -3721,27 +3721,27 @@
   },
   {
     "rating": "3.6",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "West Fork Methow River",
     "lat": "48.6492",
     "lng": "-120.5653",
-    "elevGain": null,
+    "elevGain": "",
     "id": "west-fork-methow-river",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vakd",
     "name": "West Peak",
     "lat": "47.5056",
     "lng": "-122.0624",
-    "elevGain": null,
+    "elevGain": "",
     "id": "west-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -3751,9 +3751,9 @@
     "name": "West Fork Agnes Creek",
     "lat": "48.3428",
     "lng": "-120.9161",
-    "elevGain": null,
+    "elevGain": "",
     "id": "west-fork-agnes-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.6",
@@ -3781,15 +3781,15 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Whiskey Bend to Low Divide",
     "lat": "47.9643",
     "lng": "-123.5844",
-    "elevGain": null,
+    "elevGain": "",
     "id": "whiskey-bend-to-low-divide",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -3801,7 +3801,7 @@
     "lng": "-121.5170",
     "elevGain": "2200",
     "id": "white-pass-chinook-pass-pct-200",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -3811,9 +3811,9 @@
     "name": "Gombu Wilderness Cliffs",
     "lat": "47.5143",
     "lng": "-122.0910",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wilderness-cliffs",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1.3",
@@ -3823,9 +3823,9 @@
     "name": "Westside Road",
     "lat": "46.7354",
     "lng": "-121.8566",
-    "elevGain": null,
+    "elevGain": "",
     "id": "westside-road",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -3889,15 +3889,15 @@
   },
   {
     "rating": "2.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "West Fork Teanaway River",
     "lat": "47.2915",
     "lng": "-121.0064",
-    "elevGain": null,
+    "elevGain": "",
     "id": "west-fork-teanaway-river",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
@@ -3931,9 +3931,9 @@
     "name": "Westport Light Trail",
     "lat": "46.8901",
     "lng": "-124.1041",
-    "elevGain": null,
+    "elevGain": "",
     "id": "westport-light-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "5",
@@ -3979,33 +3979,33 @@
     "name": "White Chuck River",
     "lat": "48.0958",
     "lng": "-121.3492",
-    "elevGain": null,
+    "elevGain": "",
     "id": "white-chuck-river",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "White River",
     "lat": "47.9631",
     "lng": "-120.9437",
-    "elevGain": null,
+    "elevGain": "",
     "id": "white-river",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Whitehorse Trail - Arlington to Trafton",
     "lat": "48.2007",
     "lng": "-122.1268",
-    "elevGain": null,
+    "elevGain": "",
     "id": "whitehorse-trail-arlington-to-trafton",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -4015,9 +4015,9 @@
     "name": "White Salmon Road Snowshoe",
     "lat": "48.8664",
     "lng": "-121.6548",
-    "elevGain": null,
+    "elevGain": "",
     "id": "white-salmon-road-snowshoe",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -4029,7 +4029,7 @@
     "lng": "-120.0944",
     "elevGain": "80",
     "id": "whiskey-dick-wildlife-area-backcountry-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -4087,21 +4087,21 @@
     "name": "Deception Pass State Park - West Beach Sand Dunes",
     "lat": "48.4035",
     "lng": "-122.6195",
-    "elevGain": null,
+    "elevGain": "",
     "id": "west-beach-deception-pass-state-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "West Fork Miller River",
     "lat": "47.6719",
     "lng": "-121.3976",
-    "elevGain": null,
+    "elevGain": "",
     "id": "west-fork-miller-river",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.4",
@@ -4129,27 +4129,27 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "White Chuck Mountain",
     "lat": "48.2124",
     "lng": "-121.4262",
-    "elevGain": null,
+    "elevGain": "",
     "id": "white-chuck-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vs",
     "name": "Wenatchee Mountain",
     "lat": "47.2811",
     "lng": "-120.4349",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wenatchee-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.3",
@@ -4201,15 +4201,15 @@
   },
   {
     "rating": "3.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Whitehorse Trail - Swede Heaven to Darrington",
     "lat": "48.2702",
     "lng": "-121.7065",
-    "elevGain": null,
+    "elevGain": "",
     "id": "whitehorse-rail-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -4243,9 +4243,9 @@
     "name": "White Chuck Bench",
     "lat": "48.1913",
     "lng": "-121.4133",
-    "elevGain": null,
+    "elevGain": "",
     "id": "white-chuck-bench",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -4281,19 +4281,19 @@
     "lng": "-120.0944",
     "elevGain": "315",
     "id": "whiskey-dick-wildlife-area-bluebird-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Whatcom Pass",
     "lat": "48.8750",
     "lng": "-121.3617",
-    "elevGain": null,
+    "elevGain": "",
     "id": "whatcom-pass",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -4305,19 +4305,19 @@
     "lng": "-122.4280",
     "elevGain": "50",
     "id": "whatcom-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Wenatchee River Road",
     "lat": "47.6875",
     "lng": "-120.7349",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wenatchee-river-road",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -4327,7 +4327,7 @@
     "name": "West Fork Buttermilk",
     "lat": "48.3111",
     "lng": "-120.3368",
-    "elevGain": null,
+    "elevGain": "",
     "id": "west-fork-buttermilk-river",
     "elevMax": "7480"
   },
@@ -4425,19 +4425,19 @@
     "lng": "-120.0944",
     "elevGain": "185",
     "id": "wild-horse-wind-and-solar-facilities-bitterroot-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "e",
     "name": "Wonderland Trail - Box Canyon to Indian Bar",
     "lat": "46.7656",
     "lng": "-121.6357",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wonderland-trail-box-canyon-to-indian-bar",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.7",
@@ -4489,15 +4489,15 @@
   },
   {
     "rating": "2.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Wobbly Creek",
     "lat": "46.4393",
     "lng": "-121.6029",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wobbly-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
@@ -4573,15 +4573,15 @@
   },
   {
     "rating": "2.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "cak",
     "name": "Woodard Bay Conservation Area",
     "lat": "47.1269",
     "lng": "-122.8538",
-    "elevGain": null,
+    "elevGain": "",
     "id": "woodard-bay-conservation-area",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -4605,7 +4605,7 @@
     "lng": "-120.4760",
     "elevGain": "1000",
     "id": "yakima-rim-skyline",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -4639,9 +4639,9 @@
     "name": "Yakima Greenway",
     "lat": "46.6250",
     "lng": "-120.5322",
-    "elevGain": null,
+    "elevGain": "",
     "id": "yakima-greenway",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -4651,33 +4651,33 @@
     "name": "Wright Mountain",
     "lat": "47.4456",
     "lng": "-121.4235",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wright-mountain",
     "elevMax": "5430"
   },
   {
     "rating": "2.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Yellow Hill",
     "lat": "47.2955",
     "lng": "-120.9641",
-    "elevGain": null,
+    "elevGain": "",
     "id": "yellow-hill",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Zig Zag Trail ",
     "lat": "47.4315",
     "lng": "-121.6492",
-    "elevGain": null,
+    "elevGain": "",
     "id": "zig-zag-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -4689,19 +4689,19 @@
     "lng": "-121.6548",
     "elevGain": "0",
     "id": "youth-on-age",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Wynoochee",
     "lat": "47.4703",
     "lng": "-123.5236",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wynoochee",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -4717,7 +4717,7 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "msakd",
     "name": "Jacobson Preserve",
@@ -4737,7 +4737,7 @@
     "lng": "-122.1854",
     "elevGain": "600",
     "id": "siouxson-creek-and-chinook-falls",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -4771,7 +4771,7 @@
     "name": "Dark Peak",
     "lat": "47.9696",
     "lng": "-120.2158",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dark-peak",
     "elevMax": "8513"
   },
@@ -4783,7 +4783,7 @@
     "name": "Chair Peak",
     "lat": "47.4154",
     "lng": "-121.4433",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chair-peak",
     "elevMax": "6244"
   },
@@ -4825,15 +4825,15 @@
   },
   {
     "rating": "5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Thunder Mountain",
     "lat": "47.7188",
     "lng": "-121.0977",
-    "elevGain": null,
+    "elevGain": "",
     "id": "thunder-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -4873,15 +4873,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "lfkd",
     "name": "Lake Ballinger Park",
     "lat": "47.7897",
     "lng": "-122.3293",
-    "elevGain": null,
+    "elevGain": "",
     "id": "lake-ballinger-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
@@ -4903,7 +4903,7 @@
     "name": "Buckner Orchard Walk",
     "lat": "48.3405",
     "lng": "-120.7025",
-    "elevGain": null,
+    "elevGain": "",
     "id": "buckner-orchard-walk",
     "elevMax": "1200"
   },
@@ -4927,9 +4927,9 @@
     "name": "Dockton Forest",
     "lat": "47.3672",
     "lng": "-122.4548",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dockton-forest",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
@@ -4939,21 +4939,21 @@
     "name": "Shoreview and Boeing Creek Parks",
     "lat": "47.7518",
     "lng": "-122.3604",
-    "elevGain": null,
+    "elevGain": "",
     "id": "boeing-creek-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Pioneer Park",
     "lat": "48.3853",
     "lng": "-122.5006",
-    "elevGain": null,
+    "elevGain": "",
     "id": "copy_of_pioneer-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -4963,9 +4963,9 @@
     "name": "Dishman Hills",
     "lat": "47.6503",
     "lng": "-117.2910",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dishman-hills",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5001,7 +5001,7 @@
     "lng": "-122.5802",
     "elevGain": "20",
     "id": "burnt-creek-bridge-eastern-section",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5013,7 +5013,7 @@
     "lng": "-122.6150",
     "elevGain": "120",
     "id": "burnt-creek-bridge-middle-section",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -5037,7 +5037,7 @@
     "lng": "-123.5527",
     "elevGain": "0",
     "id": "maidenhair-falls",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5049,7 +5049,7 @@
     "lng": "-117.1967",
     "elevGain": "600",
     "id": "antoine-peak-conservation-area-summit-loop",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5089,15 +5089,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "fvkd",
     "name": "Cochrane Memorial Park",
     "lat": "46.9374",
     "lng": "-122.6102",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cochrane-memorial-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5145,7 +5145,7 @@
     "lng": "-121.9364",
     "elevGain": "1100",
     "id": "grand-ridge-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5157,7 +5157,7 @@
     "lng": "-121.6865",
     "elevGain": "150",
     "id": "spada-lake-culmback-dam",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5169,19 +5169,19 @@
     "lng": "-122.2160",
     "elevGain": "400",
     "id": "volcano-view-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "o",
     "name": "LeBar Horse Camp Trail",
     "lat": "47.4169",
     "lng": "-123.3294",
-    "elevGain": null,
+    "elevGain": "",
     "id": "lebar-horse-camp-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5215,9 +5215,9 @@
     "name": "Alta Lake State Park",
     "lat": "48.0294",
     "lng": "-119.9358",
-    "elevGain": null,
+    "elevGain": "",
     "id": "alta-lake-state-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5227,9 +5227,9 @@
     "name": "Wynoochee Falls",
     "lat": "47.4708",
     "lng": "-123.5273",
-    "elevGain": null,
+    "elevGain": "",
     "id": "wynoochee-falls",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5245,37 +5245,37 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vs",
     "name": "Mount Mastiff via Merritt Lake",
     "lat": "47.7908",
     "lng": "-120.8847",
-    "elevGain": null,
+    "elevGain": "",
     "id": "mount-mastiff-via-merritt-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Scatter Peak",
     "lat": "47.4790",
     "lng": "-121.0024",
-    "elevGain": null,
+    "elevGain": "",
     "id": "scatter-peak",
     "elevMax": "7031"
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vs",
     "name": "Teanaway Butte",
     "lat": "47.3122",
     "lng": "-120.9478",
-    "elevGain": null,
+    "elevGain": "",
     "id": "teanaway-butte",
     "elevMax": "4760"
   },
@@ -5313,7 +5313,7 @@
     "lng": "-117.1304",
     "elevGain": "575",
     "id": "mount-spokane-state-park-trail-130-to-ccc-cabin",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.2",
@@ -5347,9 +5347,9 @@
     "name": "City Hall to Pike Place",
     "lat": "47.6095",
     "lng": "-122.3415",
-    "elevGain": null,
+    "elevGain": "",
     "id": "city-hall-to-pike-place",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -5361,7 +5361,7 @@
     "lng": "-117.1945",
     "elevGain": "1000",
     "id": "grassy-top",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5373,7 +5373,7 @@
     "lng": "-117.2888",
     "elevGain": "200",
     "id": "deep-ravine-loop-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5385,7 +5385,7 @@
     "lng": "-118.4665",
     "elevGain": "1640",
     "id": "old-stagecoach-trail-to-copper-butte",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5397,7 +5397,7 @@
     "lng": "-117.6194",
     "elevGain": "2700",
     "id": "tucannon-river-rattlesnake-loop",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -5481,7 +5481,7 @@
     "lng": "-120.7806",
     "elevGain": "0",
     "id": "beaver-loop",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -5493,7 +5493,7 @@
     "lng": "-121.9962",
     "elevGain": "0",
     "id": "around-the-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -5521,15 +5521,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vs",
     "name": "Anaconda Peak",
     "lat": "48.0728",
     "lng": "-121.6547",
-    "elevGain": null,
+    "elevGain": "",
     "id": "anaconda-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -5557,15 +5557,15 @@
   },
   {
     "rating": "2.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Anderson Glacier",
     "lat": "47.7249",
     "lng": "-123.0028",
-    "elevGain": null,
+    "elevGain": "",
     "id": "anderson-glacier",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -5683,33 +5683,33 @@
     "name": "Ancient Groves",
     "lat": "47.9982",
     "lng": "-123.9021",
-    "elevGain": null,
+    "elevGain": "",
     "id": "ancient-groves",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "rla",
     "name": "Ames Lake Forest",
     "lat": "47.6455",
     "lng": "-121.9548",
-    "elevGain": null,
+    "elevGain": "",
     "id": "ames-lake-forest",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Arrowhead Mountain",
     "lat": "47.7711",
     "lng": "-120.9803",
-    "elevGain": null,
+    "elevGain": "",
     "id": "arrowhead-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -5781,7 +5781,7 @@
     "lng": "-120.8905",
     "elevGain": "900",
     "id": "bear-canyon",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.9",
@@ -5797,15 +5797,15 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "mve",
     "name": "Bell Pass",
     "lat": "48.6925",
     "lng": "-121.9030",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bell-pass",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -5817,7 +5817,7 @@
     "lng": "-117.1075",
     "elevGain": "400",
     "id": "bead-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.4",
@@ -5833,15 +5833,15 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Basalt Ridge",
     "lat": "47.9516",
     "lng": "-120.7692",
-    "elevGain": null,
+    "elevGain": "",
     "id": "basalt-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -5869,51 +5869,51 @@
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bear Lake",
     "lat": "47.9228",
     "lng": "-117.3513",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bear-lake-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bald Eagle Mountain",
     "lat": "48.0012",
     "lng": "-121.2940",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bald-eagle-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "rlwomvsape",
     "name": "Banshee Peak",
     "lat": "46.8879",
     "lng": "-121.6105",
-    "elevGain": null,
+    "elevGain": "",
     "id": "banshee-peak",
     "elevMax": "7400"
   },
   {
     "rating": "5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bailey Range Traverse",
     "lat": "47.8512",
     "lng": "-123.5860",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bailey-range",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.6",
@@ -5985,7 +5985,7 @@
     "lng": "-121.7370",
     "elevGain": "75",
     "id": "bear-lake-2",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -6073,27 +6073,27 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bearscout Peak",
     "lat": "47.3326",
     "lng": "-121.4845",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bearscout-peak",
     "elevMax": "5210"
   },
   {
     "rating": "3.3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bear Creek Falls",
     "lat": "48.6185",
     "lng": "-121.7370",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bear-creek-falls",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.1",
@@ -6109,15 +6109,15 @@
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "v!",
     "name": "Badger Mountain",
     "lat": "46.2367",
     "lng": "-119.2976",
-    "elevGain": null,
+    "elevGain": "",
     "id": "badger-mountain-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
@@ -6247,43 +6247,43 @@
     "name": "Bear Ridge",
     "lat": "47.5269",
     "lng": "-122.0641",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bear-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "v",
     "name": "Augspurger Trail",
     "lat": "45.6991",
     "lng": "-121.7062",
-    "elevGain": null,
+    "elevGain": "",
     "id": "augspurger-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Aurora Ridge",
     "lat": "48.0536",
     "lng": "-123.9893",
-    "elevGain": null,
+    "elevGain": "",
     "id": "aurora-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "s",
     "name": "Bean Peak",
     "lat": "47.3946",
     "lng": "-120.8757",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bean-peak",
     "elevMax": "7343"
   },
@@ -6325,15 +6325,15 @@
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bald Mountain via Ashland Lakes",
     "lat": "48.0477",
     "lng": "-121.7144",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bald-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -6361,15 +6361,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Beaver Tail",
     "lat": "46.8756",
     "lng": "-120.5012",
-    "elevGain": null,
+    "elevGain": "",
     "id": "beaver-tail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.2",
@@ -6385,15 +6385,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Baker Lake - Horseshoe Cove Snowshoe",
     "lat": "48.6786",
     "lng": "-121.7103",
-    "elevGain": null,
+    "elevGain": "",
     "id": "baker-lake-horseshoe-cove",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.2",
@@ -6463,7 +6463,7 @@
     "name": "Big Tree Loop",
     "lat": "47.8604",
     "lng": "-120.9707",
-    "elevGain": null,
+    "elevGain": "",
     "id": "big-tree-loop",
     "elevMax": "2000"
   },
@@ -6489,7 +6489,7 @@
     "lng": "-120.6982",
     "elevGain": "1250",
     "id": "black-canyon",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -6535,33 +6535,33 @@
     "name": "Big Tree Ridge",
     "lat": "47.5474",
     "lng": "-122.0713",
-    "elevGain": null,
+    "elevGain": "",
     "id": "big-tree-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "la",
     "name": "Billy Goat",
     "lat": "48.7825",
     "lng": "-120.3179",
-    "elevGain": null,
+    "elevGain": "",
     "id": "billy-goat",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bluff Trail",
     "lat": "46.1632",
     "lng": "-121.8736",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bluff-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -6573,31 +6573,31 @@
     "lng": "-123.9034",
     "elevGain": "80",
     "id": "big-cedar-tree",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "rm",
     "name": "Bob Heirman Wildlife Preserve",
     "lat": "47.8615",
     "lng": "-122.0932",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bob-hierman-preserve",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Blue Buck",
     "lat": "48.4977",
     "lng": "-120.1521",
-    "elevGain": null,
+    "elevGain": "",
     "id": "blue-buck",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -6607,21 +6607,21 @@
     "name": "Black & White Lakes",
     "lat": "47.5087",
     "lng": "-123.3221",
-    "elevGain": null,
+    "elevGain": "",
     "id": "black-white-lakes",
     "elevMax": "4200"
   },
   {
     "rating": "5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Big Gulch",
     "lat": "47.9150",
     "lng": "-122.2976",
-    "elevGain": null,
+    "elevGain": "",
     "id": "big-gulch-mukilteo",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.4",
@@ -6649,15 +6649,15 @@
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Tom Dick & Harry Lakes",
     "lat": "47.8376",
     "lng": "-121.5050",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bitter-creek-logging-road",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.3",
@@ -6709,27 +6709,27 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "covaekd",
     "name": "Birch Bay State Park",
     "lat": "48.9069",
     "lng": "-122.7660",
-    "elevGain": null,
+    "elevGain": "",
     "id": "birch-bay-state-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Blackjack Ridge",
     "lat": "47.6098",
     "lng": "-120.8903",
-    "elevGain": null,
+    "elevGain": "",
     "id": "blackjack-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -6745,15 +6745,15 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bluff Lake",
     "lat": "46.6532",
     "lng": "-121.5705",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bluff-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.6",
@@ -6769,15 +6769,15 @@
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Big Slide",
     "lat": "45.8817",
     "lng": "-121.9836",
-    "elevGain": null,
+    "elevGain": "",
     "id": "big-slide",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -6787,9 +6787,9 @@
     "name": "Big Finn Hill Park",
     "lat": "47.7243",
     "lng": "-122.2368",
-    "elevGain": null,
+    "elevGain": "",
     "id": "big-finn-hill",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -6823,9 +6823,9 @@
     "name": "Big Creek Falls",
     "lat": "47.5381",
     "lng": "-121.5314",
-    "elevGain": null,
+    "elevGain": "",
     "id": "big-creek-falls",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -6841,15 +6841,15 @@
   },
   {
     "rating": "2.3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Beverly Turnpike",
     "lat": "47.3892",
     "lng": "-120.8725",
-    "elevGain": null,
+    "elevGain": "",
     "id": "beverly-turnpike",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1.5",
@@ -6889,15 +6889,15 @@
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "lfvd",
     "name": "Blue Lake High",
     "lat": "48.0448",
     "lng": "-121.2588",
-    "elevGain": null,
+    "elevGain": "",
     "id": "blue-lake-high",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
@@ -6925,15 +6925,15 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Big Beaver - Ross Dam Trail",
     "lat": "48.7241",
     "lng": "-121.0664",
-    "elevGain": null,
+    "elevGain": "",
     "id": "big-beaver",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -6985,15 +6985,15 @@
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "mvap",
     "name": "Buck Creek Pass",
     "lat": "48.0771",
     "lng": "-120.8579",
-    "elevGain": null,
+    "elevGain": "",
     "id": "buck-creek-pass",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -7015,9 +7015,9 @@
     "name": "By Pass Trail",
     "lat": "47.5301",
     "lng": "-122.1030",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bypass-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -7039,21 +7039,21 @@
     "name": "Brink Trail",
     "lat": "47.5296",
     "lng": "-121.9957",
-    "elevGain": null,
+    "elevGain": "",
     "id": "brink-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vapkd",
     "name": "Bullitt Gorge",
     "lat": "47.5055",
     "lng": "-122.0558",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bullitt-gorge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.7",
@@ -7087,21 +7087,21 @@
     "name": "Bonneville Trail",
     "lat": "47.5295",
     "lng": "-122.0087",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bonneville-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Boulder Butte",
     "lat": "48.3130",
     "lng": "-120.6541",
-    "elevGain": null,
+    "elevGain": "",
     "id": "boulder-butte",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -7129,7 +7129,7 @@
   },
   {
     "rating": "4.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Boulder Ridge",
@@ -7137,7 +7137,7 @@
     "lng": "-121.6903",
     "elevGain": "2700",
     "id": "boulder-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -7177,15 +7177,15 @@
   },
   {
     "rating": "2.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "kd",
     "name": "Bullitt Access Trail",
     "lat": "47.5230",
     "lng": "-122.0576",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bullitt-access",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -7225,27 +7225,27 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bryant Peak",
     "lat": "47.4171",
     "lng": "-121.4406",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bryant-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Boulder Creek",
     "lat": "48.0012",
     "lng": "-120.9634",
-    "elevGain": null,
+    "elevGain": "",
     "id": "boulder-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -7267,7 +7267,7 @@
     "name": "Buckskin Ridge",
     "lat": "48.7338",
     "lng": "-120.6752",
-    "elevGain": null,
+    "elevGain": "",
     "id": "buckskin-ridge",
     "elevMax": "7300"
   },
@@ -7309,15 +7309,15 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Boulder Lake",
     "lat": "48.3206",
     "lng": "-121.3699",
-    "elevGain": null,
+    "elevGain": "",
     "id": "boulder-lake-2",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -7369,15 +7369,15 @@
   },
   {
     "rating": "1.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vakd",
     "name": "Bullitt Fireplace Trail",
     "lat": "47.5211",
     "lng": "-122.0560",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bullitt-fireplace",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -7393,15 +7393,15 @@
   },
   {
     "rating": "3.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "l",
     "name": "Boulder-De Roux / Gallagher Head Lake",
     "lat": "47.4174",
     "lng": "-120.9361",
-    "elevGain": null,
+    "elevGain": "",
     "id": "boulder-de-roux",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -7429,15 +7429,15 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Bonaparte",
     "lat": "48.7928",
     "lng": "-119.1618",
-    "elevGain": null,
+    "elevGain": "",
     "id": "bonaparte",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.5",
@@ -7453,27 +7453,27 @@
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "v",
     "name": "Boston Basin",
     "lat": "48.5021",
     "lng": "-121.0676",
-    "elevGain": null,
+    "elevGain": "",
     "id": "boston-basin",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "c",
     "name": "Cama Beach State Park",
     "lat": "48.1322",
     "lng": "-122.5031",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cama-beach-state-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.6",
@@ -7501,27 +7501,27 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Boundary Trail - Rainier",
     "lat": "46.9766",
     "lng": "-121.8306",
-    "elevGain": null,
+    "elevGain": "",
     "id": "boundary-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Buckhorn Mountain",
     "lat": "47.8268",
     "lng": "-123.1166",
-    "elevGain": null,
+    "elevGain": "",
     "id": "buckhorn-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -7549,15 +7549,15 @@
   },
   {
     "rating": "2.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Cameron Creek",
     "lat": "47.9650",
     "lng": "-123.1930",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cameron-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -7605,7 +7605,7 @@
     "lng": "-123.3259",
     "elevGain": "800",
     "id": "camp-pleasant",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -7651,21 +7651,21 @@
     "name": "Cedar Downs",
     "lat": "47.3739",
     "lng": "-122.0557",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cedar-downs",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "rlmvad",
     "name": "Chelan Butte",
     "lat": "47.8048",
     "lng": "-120.0461",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chelan-butte",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -7675,9 +7675,9 @@
     "name": "Cave Hole",
     "lat": "47.5345",
     "lng": "-122.1285",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cave-hole",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -7761,7 +7761,7 @@
     "lng": "-118.9852",
     "elevGain": "700",
     "id": "candy-point-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -7773,19 +7773,19 @@
     "lng": "-122.2149",
     "elevGain": "50",
     "id": "cedar-river-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Cashmere Mountain",
     "lat": "47.5465",
     "lng": "-120.7914",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cashmere-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
@@ -7795,9 +7795,9 @@
     "name": "Carbon River to Ipsut Falls",
     "lat": "46.9949",
     "lng": "-121.9123",
-    "elevGain": null,
+    "elevGain": "",
     "id": "carbon-river",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -7837,27 +7837,27 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Camp Schurman",
     "lat": "46.9003",
     "lng": "-121.6581",
-    "elevGain": null,
+    "elevGain": "",
     "id": "camp-schurman",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "lvp",
     "name": "Chair Peak Lake",
     "lat": "47.4149",
     "lng": "-121.4434",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chair-peak-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.2",
@@ -7873,27 +7873,27 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "CCC Plateau",
     "lat": "47.4866",
     "lng": "-121.6736",
-    "elevGain": null,
+    "elevGain": "",
     "id": "ccc-pleateau",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Chatter Creek",
     "lat": "47.6100",
     "lng": "-120.8902",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chatter-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -7929,7 +7929,7 @@
     "lng": "-122.0629",
     "elevGain": "2400",
     "id": "canyon-lake-community-forest",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -8005,15 +8005,15 @@
   },
   {
     "rating": "3.3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "l",
     "name": "Charlia Lakes Way Trail",
     "lat": "47.8337",
     "lng": "-123.0163",
-    "elevGain": null,
+    "elevGain": "",
     "id": "charlia-lakes-way-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -8041,15 +8041,15 @@
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Change Peak",
     "lat": "47.4234",
     "lng": "-121.6736",
-    "elevGain": null,
+    "elevGain": "",
     "id": "change-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.2",
@@ -8059,9 +8059,9 @@
     "name": "Cascade Rock",
     "lat": "48.0273",
     "lng": "-123.5894",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cascade-rock",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1.8",
@@ -8101,27 +8101,27 @@
   },
   {
     "rating": "2.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "m",
     "name": "Cedar Lake Way",
     "lat": "47.9473",
     "lng": "-123.1958",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cedar-lake-way",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Campbell Lake",
     "lat": "48.4560",
     "lng": "-120.1200",
-    "elevGain": null,
+    "elevGain": "",
     "id": "campbell-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -8191,9 +8191,9 @@
     "name": "Captain William Clark Regional Park at Cottonwood Beach- Dike Trail",
     "lat": "45.5669",
     "lng": "-122.3371",
-    "elevGain": null,
+    "elevGain": "",
     "id": "captain-william-clark-regional-park-at-cottonwood-beach-dike-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -8203,33 +8203,33 @@
     "name": "Central Peak",
     "lat": "47.4817",
     "lng": "-122.0532",
-    "elevGain": null,
+    "elevGain": "",
     "id": "central-peak",
     "elevMax": "2025"
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "m",
     "name": "Chancellor",
     "lat": "48.7029",
     "lng": "-120.9103",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chancellor",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "lmvspe",
     "name": "Chelan Summit",
     "lat": "48.1185",
     "lng": "-120.3008",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chelan-summit-1261",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -8275,9 +8275,9 @@
     "name": "Cheshiahud Lake Union Loop",
     "lat": "47.6460",
     "lng": "-122.3362",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chesiahud-lake-union-loop",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
@@ -8289,7 +8289,7 @@
     "lng": "-117.0276",
     "elevGain": "1500",
     "id": "chief-joseph-wildlife-area-green-gulch",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -8305,27 +8305,27 @@
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vs",
     "name": "Chihuly Trail",
     "lat": "47.5502",
     "lng": "-120.6867",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chihuly-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "ck",
     "name": "Clayton Beach",
     "lat": "48.6384",
     "lng": "-122.4795",
-    "elevGain": null,
+    "elevGain": "",
     "id": "clayton-beach",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -8389,15 +8389,15 @@
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Church Lake",
     "lat": "48.9567",
     "lng": "-121.8526",
-    "elevGain": null,
+    "elevGain": "",
     "id": "church-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.5",
@@ -8413,15 +8413,15 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "v",
     "name": "Chinook Pass Snowshoe",
     "lat": "46.8970",
     "lng": "-121.4323",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chinook-pass",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.9",
@@ -8473,15 +8473,15 @@
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Cold Springs",
     "lat": "46.0847",
     "lng": "-121.5023",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cold-springs",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -8505,7 +8505,7 @@
     "lng": "-118.8588",
     "elevGain": "1400",
     "id": "columbia-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -8521,15 +8521,15 @@
   },
   {
     "rating": "2.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Cispus Lookout",
     "lat": "46.4684",
     "lng": "-121.7049",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cispus-lookout",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -8539,9 +8539,9 @@
     "name": "Coal Mine",
     "lat": "47.5119",
     "lng": "-122.0563",
-    "elevGain": null,
+    "elevGain": "",
     "id": "coal-mine",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.9",
@@ -8569,15 +8569,15 @@
   },
   {
     "rating": "3.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Copper Creek",
     "lat": "48.2006",
     "lng": "-120.7864",
-    "elevGain": null,
+    "elevGain": "",
     "id": "copper-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "1.5",
@@ -8605,15 +8605,15 @@
   },
   {
     "rating": "3.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Coal Lake",
     "lat": "48.1019",
     "lng": "-121.5912",
-    "elevGain": null,
+    "elevGain": "",
     "id": "coal-lake",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -8629,15 +8629,15 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Chiwawa River",
     "lat": "48.1048",
     "lng": "-120.8319",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chiwawa-river",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.2",
@@ -8665,27 +8665,27 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Chopaka Mountain",
     "lat": "48.7050",
     "lng": "-119.4394",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chopaka-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Constance Pass",
     "lat": "47.7418",
     "lng": "-123.0530",
-    "elevGain": null,
+    "elevGain": "",
     "id": "constance-pass",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -8695,33 +8695,33 @@
     "name": "Cleveland Mountain",
     "lat": "47.6937",
     "lng": "-121.4267",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cleveland-mountain",
     "elevMax": "5280"
   },
   {
     "rating": "3.0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Chiwaukum Creek-Timothy Meadows",
     "lat": "47.6892",
     "lng": "-120.7388",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chiwaukum-creek-timothy-meadows",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "m",
     "name": "Conrad Meadows",
     "lat": "46.5084",
     "lng": "-121.2812",
-    "elevGain": null,
+    "elevGain": "",
     "id": "conrad-meadows",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "5",
@@ -8731,7 +8731,7 @@
     "name": "Chuckanut Ridge Trail",
     "lat": "48.7008",
     "lng": "-122.4893",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chuckanut-ridge-trail",
     "elevMax": "1900"
   },
@@ -8791,9 +8791,9 @@
     "name": "Clay Pit Road",
     "lat": "47.5301",
     "lng": "-122.1030",
-    "elevGain": null,
+    "elevGain": "",
     "id": "clay-pit-road",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.3",
@@ -8833,15 +8833,15 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vd",
     "name": "Chybinski Loop",
     "lat": "47.5127",
     "lng": "-122.0604",
-    "elevGain": null,
+    "elevGain": "",
     "id": "chybinski-loop",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -8869,15 +8869,15 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Cortright Creek",
     "lat": "46.6957",
     "lng": "-121.4808",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cortright-creek",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
@@ -8953,15 +8953,15 @@
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Cowlitz Trail",
     "lat": "46.7129",
     "lng": "-121.4896",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cowlitz-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "5",
@@ -8985,31 +8985,31 @@
     "lng": "-119.7456",
     "elevGain": "400",
     "id": "crab-creek-wildlife-area",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Dark Meadows",
     "lat": "46.6450",
     "lng": "-121.3811",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dark-meadows",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "lv",
     "name": "Crater Mountain",
     "lat": "48.7079",
     "lng": "-120.9771",
-    "elevGain": null,
+    "elevGain": "",
     "id": "crater-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -9019,7 +9019,7 @@
     "name": "Damon Point ",
     "lat": "46.9464",
     "lng": "-124.1333",
-    "elevGain": null,
+    "elevGain": "",
     "id": "damon-point-state-park",
     "elevMax": "10"
   },
@@ -9037,15 +9037,15 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "County Line",
     "lat": "47.3511",
     "lng": "-120.7070",
-    "elevGain": null,
+    "elevGain": "",
     "id": "county-line",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -9085,27 +9085,27 @@
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "omvsaped",
     "name": "Crowell Ridge",
     "lat": "48.5579",
     "lng": "-118.5582",
-    "elevGain": null,
+    "elevGain": "",
     "id": "crowell-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Copper Ridge",
     "lat": "48.9270",
     "lng": "-121.6791",
-    "elevGain": null,
+    "elevGain": "",
     "id": "copper-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -9133,15 +9133,15 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Curry Gap",
     "lat": "47.9251",
     "lng": "-121.2819",
-    "elevGain": null,
+    "elevGain": "",
     "id": "curry-gap",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
@@ -9175,9 +9175,9 @@
     "name": "Curry Preserve",
     "lat": "48.7308",
     "lng": "-122.6934",
-    "elevGain": null,
+    "elevGain": "",
     "id": "curry-preserve",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -9205,15 +9205,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Crestwoods Park Trail",
     "lat": "47.6931",
     "lng": "-122.1973",
-    "elevGain": null,
+    "elevGain": "",
     "id": "crestwood-park-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -9229,7 +9229,7 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vsp",
     "name": "Copper Mountain",
@@ -9295,9 +9295,9 @@
     "name": "Crystal Mountain Resort",
     "lat": "46.9357",
     "lng": "-121.4743",
-    "elevGain": null,
+    "elevGain": "",
     "id": "crystal-mountain-resort",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -9373,15 +9373,15 @@
   },
   {
     "rating": "2.7",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Cougar Divide",
     "lat": "48.8616",
     "lng": "-121.7859",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cougar-divide",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -9409,27 +9409,27 @@
   },
   {
     "rating": "1",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Oak Creek Wildlife Area - Cowiche segment",
     "lat": "46.6254",
     "lng": "-120.7397",
-    "elevGain": null,
+    "elevGain": "",
     "id": "cowiche-segment-oak-creek-wildlife-area",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "v",
     "name": "Crow Lake Way",
     "lat": "47.4652",
     "lng": "-121.5115",
-    "elevGain": null,
+    "elevGain": "",
     "id": "crow-lake-way",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -9445,27 +9445,27 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "vsp",
     "name": "Courtney Peak",
     "lat": "48.2604",
     "lng": "-120.4431",
-    "elevGain": null,
+    "elevGain": "",
     "id": "courtney-peak",
     "elevMax": "8392"
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Silver King",
     "lat": "46.9383",
     "lng": "-121.4743",
-    "elevGain": null,
+    "elevGain": "",
     "id": "crystal-mountain-silver-creek-silver-king",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.8",
@@ -9493,15 +9493,15 @@
   },
   {
     "rating": "3.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "ck",
     "name": "Dash Point State Park",
     "lat": "47.3165",
     "lng": "-122.4087",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dash-point-state-park",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.7",
@@ -9517,15 +9517,15 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Dog Lake to Cramer Lake (Trail 1106)",
     "lat": "46.6579",
     "lng": "-121.3602",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dog-lake-to-cramer-lake-trail-1106",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.6",
@@ -9537,7 +9537,7 @@
     "lng": "-121.1934",
     "elevGain": "50",
     "id": "deception-falls-nra",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.3",
@@ -9559,9 +9559,9 @@
     "name": "Dorothy Cleveland Trail",
     "lat": "47.9145",
     "lng": "-122.3863",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dorothy-cleveland-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4.4",
@@ -9577,15 +9577,15 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Dirty Harry's Museum",
     "lat": "47.4343",
     "lng": "-121.6327",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dirty-harrys-museum",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
@@ -9595,9 +9595,9 @@
     "name": "Denman Falls",
     "lat": "46.9282",
     "lng": "-121.9150",
-    "elevGain": null,
+    "elevGain": "",
     "id": "denman-falls",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.9",
@@ -9619,9 +9619,9 @@
     "name": "Domerie Peak",
     "lat": "47.3464",
     "lng": "-121.1471",
-    "elevGain": null,
+    "elevGain": "",
     "id": "domerie-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.7",
@@ -9691,21 +9691,21 @@
     "name": "Devils Dome Loop",
     "lat": "48.7065",
     "lng": "-120.9185",
-    "elevGain": null,
+    "elevGain": "",
     "id": "devils-dome",
     "elevMax": "6980"
   },
   {
     "rating": "2.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Divide Camp",
     "lat": "46.2728",
     "lng": "-121.5650",
-    "elevGain": null,
+    "elevGain": "",
     "id": "divide-camp",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.2",
@@ -9733,15 +9733,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "DeRoux Peak",
     "lat": "47.4195",
     "lng": "-120.9396",
-    "elevGain": null,
+    "elevGain": "",
     "id": "deroux-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -9753,7 +9753,7 @@
     "lng": "-121.7840",
     "elevGain": "1500",
     "id": "dock-butte",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -9781,15 +9781,15 @@
   },
   {
     "rating": "4",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Dirty Harry's Connector",
     "lat": "47.4299",
     "lng": "-121.5912",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dirty-harrys-connector",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
@@ -9849,19 +9849,19 @@
     "lng": "-122.6620",
     "elevGain": "100",
     "id": "deception-pass-state-park-north-beach",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "s",
     "name": "Dirtybox Peak",
     "lat": "47.4634",
     "lng": "-121.6708",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dirtybox-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.7",
@@ -9877,15 +9877,15 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Deer Creek Pass",
     "lat": "48.1154",
     "lng": "-121.5925",
-    "elevGain": null,
+    "elevGain": "",
     "id": "deer-creek-pass",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -9901,27 +9901,27 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Denny Mountain",
     "lat": "47.4407",
     "lng": "-121.4203",
-    "elevGain": null,
+    "elevGain": "",
     "id": "denny-mountain",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Deception Pass State Park - Fidalgo Island Side",
     "lat": "48.4137",
     "lng": "-122.6486",
-    "elevGain": null,
+    "elevGain": "",
     "id": "deception-pass-state-park-fidalgo-island-side",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2.3",
@@ -9961,15 +9961,15 @@
   },
   {
     "rating": "2.5",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Dishpan Gap",
     "lat": "47.9770",
     "lng": "-121.1472",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dishpan-gap",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -9997,27 +9997,27 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Dixie Peak",
     "lat": "47.5279",
     "lng": "-121.7093",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dixie-peak",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Deep Lake",
     "lat": "47.5855",
     "lng": "-119.3557",
-    "elevGain": null,
+    "elevGain": "",
     "id": "deep-lake-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.6",
@@ -10033,15 +10033,15 @@
   },
   {
     "rating": "2.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Deception Lakes",
     "lat": "47.7142",
     "lng": "-121.1930",
-    "elevGain": null,
+    "elevGain": "",
     "id": "deception-lakes",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
@@ -10129,27 +10129,27 @@
   },
   {
     "rating": "2.2",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Deer Lake",
     "lat": "47.9277",
     "lng": "-123.8240",
-    "elevGain": null,
+    "elevGain": "",
     "id": "deer-lake-1",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.1",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "East Side Trail",
     "lat": "46.7591",
     "lng": "-121.5579",
-    "elevGain": null,
+    "elevGain": "",
     "id": "east-side-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "2",
@@ -10159,9 +10159,9 @@
     "name": "Echo Ridge",
     "lat": "47.9394",
     "lng": "-120.0419",
-    "elevGain": null,
+    "elevGain": "",
     "id": "echo-ridge",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "4",
@@ -10219,13 +10219,13 @@
     "name": "Dwight's Way",
     "lat": "47.5304",
     "lng": "-121.9436",
-    "elevGain": null,
+    "elevGain": "",
     "id": "dwights-way",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "East Rim Waterworks Canyon",
@@ -10233,19 +10233,19 @@
     "lng": "-120.8153",
     "elevGain": "2000",
     "id": "east-rim-waterworks-canyon",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Eastside Trail",
     "lat": "46.7512",
     "lng": "-121.5747",
-    "elevGain": null,
+    "elevGain": "",
     "id": "eastside-trail",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.9",
@@ -10279,9 +10279,9 @@
     "name": "Squak Mountain Access Trail",
     "lat": "47.5179",
     "lng": "-122.0367",
-    "elevGain": null,
+    "elevGain": "",
     "id": "east-access",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.4",
@@ -10297,15 +10297,15 @@
   },
   {
     "rating": "1.8",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Edgar Rock",
     "lat": "46.9150",
     "lng": "-121.0523",
-    "elevGain": null,
+    "elevGain": "",
     "id": "edgar-rock",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -10321,27 +10321,27 @@
   },
   {
     "rating": "3",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "l",
     "name": "East Bank Ross Lake",
     "lat": "48.7055",
     "lng": "-120.9608",
-    "elevGain": null,
+    "elevGain": "",
     "id": "east-bank-ross-lake-737",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "mvsp",
     "name": "Eagle's Nest",
     "lat": "46.5062",
     "lng": "-121.0425",
-    "elevGain": null,
+    "elevGain": "",
     "id": "eagles-nest",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.5",
@@ -10369,15 +10369,15 @@
   },
   {
     "rating": "0",
-    "length": null,
+    "length": "",
     "kml": "",
     "features": "",
     "name": "Eagle Cliff (Cypress Island)",
     "lat": "48.6026",
     "lng": "-122.7043",
-    "elevGain": null,
+    "elevGain": "",
     "id": "eagle-cliff-cypress-island",
-    "elevMax": null
+    "elevMax": ""
   },
   {
     "rating": "3.8",
