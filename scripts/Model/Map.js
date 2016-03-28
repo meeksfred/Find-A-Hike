@@ -26,7 +26,6 @@ var map
 
   startMap.displayMap = function(ctx){
     console.log(map);
-//    google.maps.event.addDomListener(window, 'load', startMap.initialize);
     startMap.marker.setMap(map);
   };
 
