@@ -1,2 +1,3 @@
-page('/', navigator.geolocation.getCurrentPosition,
-          mapView.showInitMap);
+page('/', startMap.initialize);
+
+page();

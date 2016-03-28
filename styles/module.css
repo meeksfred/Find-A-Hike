@@ -1,4 +1,14 @@
-#googleMaps {
-  width: 500px;
-  height: 280px;
+#mapContainer {
+    position: relative;
+    height: 500px;
+    width: 500px;
+}
+
+#googleMap img {
+  max-width: none;
+  position: relative;
+}
+
+.gmnoprint {
+  display: none !important;
 }
