@@ -1,3 +1,4 @@
-page('/', startMap.initialize);
+page('/', startMap.initialize,
+          startMap.displayMap);
 
 page();
