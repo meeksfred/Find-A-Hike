@@ -1,4 +1,5 @@
 page('/', startMap.initialize,
-          startMap.displayMap);
+          mapView.displayMap,
+          mapView.dragMarkStart);
 
 page();
