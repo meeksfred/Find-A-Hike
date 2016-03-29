@@ -1,0 +1,19 @@
+#mapCurrentDisplay {
+  padding-top: 25px;
+  height: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+#googleMap {
+  margin-top: 15px;
+  padding-top: 0px;
+  height: 380px;
+}
+#googleMap img {
+  position: relative;
+}
+
+/*.gmnoprint {
+  display: none !important;
+} */
