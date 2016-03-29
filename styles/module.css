@@ -1,4 +1,6 @@
-
+#googleMap {
+  height: 380px;
+}
 #googleMap img {
   position: relative;
 }
