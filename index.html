@@ -2,14 +2,134 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Project</title>
-    <meta name="viewport" content="initial-scale=1.0">
-    <link rel="stylesheet" href="/styles/base.css">
+    <title>Find A Hike</title>
+    <meta name ="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="vendor/styles/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="styles/base.css">
+    <link rel="stylesheet" href="styles/module.css">
+    <link rel="stylesheet" href="vendor/icon.css">
   </head>
-  <body>
-    <div id="map-canvas"></div>
+  <header>
+    <div>
+      <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=LOGO-PLACEHOLDER&w=200&h=75" />
+      <nav class="main-nav">
+        <span class="icon-menu"></span>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2-jo2B7cFajgxr2sACVo7fNgWg1z48hk&callback=initMap" async defer></script>
-    <script src="/scripts/app.js"></script>
-  </body>
+  <div class="team">
+  <h1>Team Members</h1>
+  <ul>
+    <li class="person">
+      <h4>Person's Name</h4>
+      <img>Person's Photo</img>
+      <p>Short bio of person</p>
+    </li>
+    <li class="person">
+      <h4>Person's Name</h4>
+      <img>Person's Photo</img>
+      <p>Short bio of person</p>
+    </li>
+    <li class="person">
+      <h4>Person's Name</h4>
+      <img>Person's Photo</img>
+      <p>Short bio of person</p>
+    </li>
+    <li class="person">
+      <h4>Person's Name</h4>
+      <img>Person's Photo</img>
+      <p>Short bio of person</p>
+    </li>
+  </ul>
+</div>
+
+  <section class="weather-bar">The current weather and 5-day forecast will go here</section>
+  <body>
+    <main>
+      <ul class="bxslider">
+        <li><img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+        <li><img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+        <li><img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+      </ul>
+    <section id="filter-box">
+      <article>
+        <h1>Select Your Search Radius</h1>
+        <select id="radius-filter">
+          <option>--Select a radius--</option>
+          <option value="25">25 miles</option>
+          <option value="50">50 miles</option>
+          <option value="100">100 miles</option>
+          <option value="150">150 miles</option>
+          <option value="200">200 miles</option>
+        </select>
+      </article>
+      <article>
+        <h1>Refine Your Results</h1>
+        <h2>Distance(in miles):</h2>
+        <select class="secondary-filter" name="" id="distance-filter">
+          <option>--Select a Distance Range--</option>
+          <option value="0">0-5</option>
+          <option value="5">5-10</option>
+          <option value="10">10-15</option>
+          <option value="15">15-20</option>
+          <option value="20">20+</option>
+        </select>
+        <h2>Elevation Gain(in feet):</h2>
+        <select class="secondary-filter" name="" id="elevation-filter">
+          <option>--Select an Elevation Range--</option>
+          <option value="0">0-500</option>
+          <option value="500">500-1000</option>
+          <option value="1000">1000-1500</option>
+          <option value="1500">1500-2000</option>
+          <option value="2000">2000-3000</option>
+          <option value="3000">3000+</option>
+        </select>
+        <h2>Rating:</h2>
+        <select class="secondary-filter" name="" id="rating-filter">
+          <option>--Select a Rating--</option>
+          <option value="0">0-1</option>
+          <option value="1">1-2</option>
+          <option value="2">2-3</option>
+          <option value="3">3-4</option>
+          <option value="4">4-5</option>
+        </select>
+      </article>
+      <button id="filter-button" type="button"><a href="/search">Go!</a></button>
+    </section>
+    <div id="mapCurrentDisplay"></div>
+    <div id="googleMap">
+      <iframe src="" width="300" height="300"></iframe>
+    </div>
+    <div id="resultsMap"></div>
+      <iframe src="" width="300" height="300"></iframe>
+    </div>
+</main>
+
+<script src="vendor/page.js"></script>
+<script src="vendor/jquery-1.12.2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js"></script>
+<script src="https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyA2-jo2B7cFajgxr2sACVo7fNgWg1z48h"></script>
+<script src="https://maps.googleapis.com/maps/api/js"></script>
+<script src="vendor/html5sql.js"></script>
+<script src="vendor/webdb.js"></script>
+<script src="scripts/trailhead.js"></script>
+<script src="scripts/trailheadController.js"></script>
+<script src="scripts/Model/markers.js"></script>
+<script src="scripts/Model/Map.js"></script>
+<script src="scripts/View/mapView.js"></script>
+<script src="scripts/View/trailsView.js"></script>
+<script src="scripts/View/resultsMap.js"></script>
+<script src="scripts/Controller/routes.js"></script>
+<script src="scripts/jqueryslider.js"></script>
+</body>
+<footer></footer>
+
 </html>

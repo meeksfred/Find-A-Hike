@@ -1,0 +1,23 @@
+{
+  "name": "find-a-hike",
+  "version": "1.0.0",
+  "description": "a single page app working off google maps, wta trailhead api, and geolocations to display nearby hikes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meeksfred/Find-A-Hike.git"
+  },
+  "author": "Max, Susan, Jeff, Zach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meeksfred/Find-A-Hike/issues"
+  },
+  "homepage": "https://github.com/meeksfred/Find-A-Hike#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
