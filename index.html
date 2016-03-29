@@ -33,7 +33,7 @@
     <section id="filter-box">
       <article>
         <h1>Select Your Search Radius</h1>
-        <select>
+        <select id="radius-filter">
           <option>--Select a radius--</option>
           <option value="25">25 miles</option>
           <option value="50">50 miles</option>
@@ -45,7 +45,7 @@
       <article>
         <h1>Refine Your Results</h1>
         <h2>Distance(in miles):</h2>
-        <select class="" name="">
+        <select class="secondary-filter" name="" id="distance-filter">
           <option>--Select a Distance Range--</option>
           <option value="0">0-5</option>
           <option value="5">5-10</option>
@@ -54,7 +54,7 @@
           <option value="20">20+</option>
         </select>
         <h2>Elevation Gain(in feet):</h2>
-        <select class="" name="">
+        <select class="secondary-filter" name="" id="elevation-filter">
           <option>--Select an Elevation Range--</option>
           <option value="0">0-500</option>
           <option value="500">500-1000</option>
@@ -64,7 +64,7 @@
           <option value="3000">3000+</option>
         </select>
         <h2>Rating:</h2>
-        <select class="" name="">
+        <select class="secondary-filter" name="" id="rating-filter">
           <option>--Select a Rating--</option>
           <option value="0">0-1</option>
           <option value="1">1-2</option>
@@ -73,9 +73,13 @@
           <option value="4">4-5</option>
         </select>
       </article>
+      <button id="filter-button" type="button"><a href="/search">Go!</a></button>
     </section>
     <div id="mapCurrentDisplay"></div>
     <div id="googleMap">
+      <iframe src="" width="300" height="300"></iframe>
+    </div>
+    <div id="resultsMap"></div>
       <iframe src="" width="300" height="300"></iframe>
     </div>
 </main>
@@ -88,10 +92,13 @@
 <script src="vendor/webdb.js"></script>
 <script src="scripts/trailhead.js"></script>
 <script src="scripts/trailheadController.js"></script>
+<script src="scripts/Model/markers.js"></script>
 <script src="scripts/Model/Map.js"></script>
 <script src="scripts/View/mapView.js"></script>
+<script src="scripts/View/trailsView.js"></script>
+<script src="scripts/View/resultsMap.js"></script>
 <script src="scripts/Controller/routes.js"></script>
-  <script src="scripts/jqueryslider.js"></script>
+<script src="scripts/jqueryslider.js"></script>
 </body>
 <footer></footer>
 
