@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat">
     <link rel="stylesheet" href="styles/base.css">
     <link rel="stylesheet" href="styles/module.css">
+    <link rel="stylesheet" href="styles/layout.css">
     <link rel="stylesheet" href="vendor/icon.css">
   </head>
   <header>
@@ -25,39 +26,73 @@
     </div>
   </header>
 
-  <div class="team">
   <h1>Team Members</h1>
-  <ul>
-    <li class="person">
-      <h4>Person's Name</h4>
-      <img>Person's Photo</img>
-      <p>Short bio of person</p>
-    </li>
-    <li class="person">
-      <h4>Person's Name</h4>
-      <img>Person's Photo</img>
-      <p>Short bio of person</p>
-    </li>
-    <li class="person">
-      <h4>Person's Name</h4>
-      <img>Person's Photo</img>
-      <p>Short bio of person</p>
-    </li>
-    <li class="person">
-      <h4>Person's Name</h4>
-      <img>Person's Photo</img>
-      <p>Short bio of person</p>
-    </li>
-  </ul>
+  <div class="team">
+  	<div class="person">
+      <p><img src="http://ximg.es/60/666666/ffffff&text=1" alt="" /><h4>Person1</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores sequi sint ipsa alias amet. Numquam voluptatum maiores. Ab repellat dolores quo quas quam quasi voluptatem delectus aperiam. Deleniti accusamus dolore!</p>
+  	</div>
+  	<div class="person">
+  		<p><img src="http://ximg.es/60/666666/ffffff&text=2" alt="" /><h4>Person2</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quis veniam accusantium molestias rerum distinctio a quidem numquam illo veritatis recusandae odit consectetur esse nobis alias earum quia omnis sed!</p>
+  	</div>
+  	<div class="person">
+  		<p><img src="http://ximg.es/60/666666/ffffff&text=3" alt="" /><h4>Person3</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem repellendus pariatur esse vel ex iure id sunt voluptatibus atque ut commodi ad aliquam assumenda. Facilis soluta cumque mollitia officiis dolorum!</p>
+  	</div>
+  	<div class="person">
+      <p><img src="http://ximg.es/60/666666/ffffff&text=4" alt="" /><h4>Person4</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis harum suscipit ducimus quisquam doloremque dolorum tenetur dolore libero optio quam delectus blanditiis dicta fuga impedit commodi adipisci aperiam?</p>
+  	</div>
+  </div>
+
+
+  <div class="container ">
+
+<div class="col-sm-6">
+    <div id="newHike" class="container form-body">
+
+        <h2 style="text-align:center;">Add a New Trail</h2>
+        <p> If your favorite trail is not on the list, add it to the form.</p>
+
+      <form id='newHikeForm' class="col-sm-6 randomizer">
+        <label>Hiking Trail Name:</label>
+        <input type="text" class="form-control" id="new-hike" value =""><br>
+
+        <label>Rating (0-5):</label>
+        <input type="text" class="form-control" id="new-rating" value =""><br>
+
+        <label>Length (miles):</label>
+        <input type="text" class="form-control" id="new-length" value =""><br>
+
+        <label>Elevation gain (feet):</label>
+        <input type="text" class="form-control" id="new-elev-gain" value =""><br>
+
+        <label>Maximum Elevation (feet):</label>
+        <input type="text" class="form-control" id="new-max-elev" value =""><br>
+
+        <label>Latitude:</label>
+        <input type="text" class="form-control" id="new-latitude" value =""><br>
+
+        <label>Longitude:</label>
+        <input type="text" class="form-control" id="new-longitude" value =""><br>
+
+        <input class="btn btn-primary btn-lg btn-block" type="submit">
+
+      </form>
+    </div>
+</div>
 </div>
 
   <section class="weather-bar">The current weather and 5-day forecast will go here</section>
   <body>
     <main>
       <ul class="bxslider">
-        <li><img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-        <li><img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-        <li><img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+        <li>
+            <h1 class="title">Northwest Adventure</h1>
+          <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+        <li>
+            <h1 class="title">Ready to Hike</h1>
+          <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+        <li>
+            <h1 class="title">Choose a Trail</h1>
+          <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
       </ul>
     <section id="filter-box">
       <article>
