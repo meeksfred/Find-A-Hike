@@ -7,7 +7,6 @@
     startMap.mapProp = {
       center: myLatlng,
       zoom:7,
-      maxZoom: 15,
       minZoom: 6
     };
     startMap.marker = new google.maps.Marker({
