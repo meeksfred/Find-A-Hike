@@ -12,24 +12,22 @@
     <link rel="stylesheet" href="styles/layout.css">
     <link rel="stylesheet" href="vendor/icon.css">
   </head>
-  <header>
-    <div>
-      <a href="#"><img src="img/logo.png" class="logo"/></a>
-      <nav class="main-nav">
-        <span class="icon-menu"></span>
-        <ul class="navigation">
-          <li class="nav-item"><a href="#">Home</a></li>
-          <li class="nav-item"><a href="#">About</a></li>
-          <li class="nav-item"><a href="#">Contact Us</a></li>
-        </ul>
-        <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
-        <label for="nav-trigger"></label>
-      </nav>
-    </div>
-  </header>
-
-<div class="site-wrap">
   <body>
+    <header>
+      <div>
+        <a href="#"><img src="img/logo.png" class="logo"/></a>
+        <nav class="main-nav">
+          <span class="icon-menu"></span>
+          <ul class="navigation">
+            <li class="nav-item"><a href="/">Home</a></li>
+            <li class="nav-item"><a href="/about">About</a></li>
+            <li class="nav-item"><a href="/contact">Contact Us</a></li>
+          </ul>
+          <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
+          <label for="nav-trigger"></label>
+        </nav>
+      </div>
+    </header>
     <section class="team">
       <h1>Team Members</h1>
   	    <article class="person">
@@ -77,40 +75,37 @@
         <input class="submit-button" type="submit">
       </form>
     </div>
-
+  </section>
   <section class="weather-bar">
     The current weather and 5-day forecast will go here
   </section>
-
-    <main>
-      <section id="slider">
-        <ul class="bxslider">
-          <li>
-              <h1 class="title">Northwest Adventure</h1>
-              <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-          <li>
+  <section id="slider">
+      <ul class="bxslider">
+        <li>
+            <h1 class="title">Northwest Adventure</h1>
+            <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+        <li>
             <h1 class="title">Ready to Hike</h1>
-          <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-          <li>
+            <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+        <li>
             <h1 class="title">Choose a Trail</h1>
-          <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-        </ul>
-      </section>
-
-    <section id="filter-box">
-      <article>
-        <h1>Select Your Search Radius</h1>
-        <select id="radius-filter">
-          <option>--Select a radius--</option>
-          <option value="25">25 miles</option>
-          <option value="50">50 miles</option>
-          <option value="100">100 miles</option>
-          <option value="150">150 miles</option>
-          <option value="200">200 miles</option>
-        </select>
-      </article>
-      <article>
-        <h1>Refine Your Results</h1>
+            <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+      </ul>
+  </section>
+  <section id="filter-box">
+    <article>
+      <h1>Select Your Search Radius</h1>
+      <select id="radius-filter">
+        <option>--Select a radius--</option>
+        <option value="25">25 miles</option>
+        <option value="50">50 miles</option>
+        <option value="100">100 miles</option>
+        <option value="150">150 miles</option>
+        <option value="200">200 miles</option>
+      </select>
+    </article>
+    <article>
+      <h1>Refine Your Results</h1>
         <h2>Maximum Distance(in miles):</h2>
         <select class="secondary-filter" name="" id="distance-filter">
           <option>--Select a Maximum Distance--</option>
@@ -142,18 +137,13 @@
       </article>
       <button id="filter-button" type="button"><a href="/search">Go!</a></button>
     </section>
-    <div id="mapCurrentDisplay"></div>
-    <h1 class="title">Move the Marker and Choose a Trail!</h1>
+    <div id="mapCurrentDisplay">
+      <h1 class="title">Move the Marker and Choose a Trail!</h1>
+    </div>
     <div id="googleMap">
       <iframe src="" width="300" height="300"></iframe>
     </div>
-    <div id="resultsMap"></div>
-      <iframe src="" width="300" height="300"></iframe>
-    </div>
-  </main>
 
-  </div>
-  </div>
   <script src="vendor/page.js"></script>
   <script src="vendor/jquery-1.12.2.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js"></script>
@@ -169,6 +159,9 @@
   <script src="scripts/View/mapView.js"></script>
   <script src="scripts/View/trailsView.js"></script>
   <script src="scripts/View/resultsMap.js"></script>
+  <script src="scripts/Controller/homeController.js"></script>
+  <script src="scripts/Controller/aboutController.js"></script>
+  <script src="scripts/Controller/contactController.js"></script>
   <script src="scripts/Controller/routes.js"></script>
   <script src="scripts/jqueryslider.js"></script>
   <footer></footer>
