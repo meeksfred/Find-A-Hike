@@ -4,6 +4,7 @@ page('/', startMap.initialize,
           trailheadController.load);
 
 page('/search', trailheadController.index,
-                trailheadController.filterByRadius);
+                trailheadController.filterByRadius,
+                trailheadController.createMarkers);
 
 page();
