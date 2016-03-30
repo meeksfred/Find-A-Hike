@@ -30,19 +30,6 @@
     return d;
   };
 
-  var setMarkers = function() {
-    var lat = markersModel.resultsMarkers.lat;
-    var lng = markersModel.resultsMarkers.lng;
-    var latlngset;
-    latlngset = new google.maps.LatLng(lat, lng);
-    var marker = new google.maps.Marker({
-      map: map,
-      icon: 'pin.png',
-      position: latlngset
-    });
-    return marker;
-  };
-
   trailheadController.load = function() {
     $('.secondary-filter').hide();
     $('#radius-filter').show();
@@ -58,10 +45,6 @@
 
     startMap.marker.setMap(null);
 
-
-    markersModel.resultsMarkers.forEach(function(inst) {
-      setMarkers(inst).startMap.marker.setMap('#googleMap');
-    });
     trailheadController.distanceFilterListener();
     trailheadController.elevationFilterListener();
     trailheadController.ratingFilterListener();
