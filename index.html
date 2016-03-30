@@ -14,42 +14,45 @@
   </head>
   <header>
     <div>
-      <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=LOGO-PLACEHOLDER&w=200&h=75" />
+      <a href="#"><img src="img/logo.png" class="logo"/></a>
       <nav class="main-nav">
         <span class="icon-menu"></span>
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact Us</a></li>
+        <ul class="navigation">
+          <li class="nav-item"><a href="#">Home</a></li>
+          <li class="nav-item"><a href="#">About</a></li>
+          <li class="nav-item"><a href="#">Contact Us</a></li>
         </ul>
+        <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
+        <label for="nav-trigger"></label>
       </nav>
     </div>
   </header>
 
-  <h1>Team Members</h1>
-  <div class="team">
-  	<div class="person">
-      <p><img src="http://ximg.es/60/666666/ffffff&text=1" alt="" /><h4>Person1</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores sequi sint ipsa alias amet. Numquam voluptatum maiores. Ab repellat dolores quo quas quam quasi voluptatem delectus aperiam. Deleniti accusamus dolore!</p>
-  	</div>
-  	<div class="person">
-  		<p><img src="http://ximg.es/60/666666/ffffff&text=2" alt="" /><h4>Person2</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quis veniam accusantium molestias rerum distinctio a quidem numquam illo veritatis recusandae odit consectetur esse nobis alias earum quia omnis sed!</p>
-  	</div>
-  	<div class="person">
-  		<p><img src="http://ximg.es/60/666666/ffffff&text=3" alt="" /><h4>Person3</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem repellendus pariatur esse vel ex iure id sunt voluptatibus atque ut commodi ad aliquam assumenda. Facilis soluta cumque mollitia officiis dolorum!</p>
-  	</div>
-  	<div class="person">
-      <p><img src="http://ximg.es/60/666666/ffffff&text=4" alt="" /><h4>Person4</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis harum suscipit ducimus quisquam doloremque dolorum tenetur dolore libero optio quam delectus blanditiis dicta fuga impedit commodi adipisci aperiam?</p>
-  	</div>
-  </div>
+<div class="site-wrap">
+  <body>
+    <section class="team">
+      <h1>Team Members</h1>
+  	    <article class="person">
+          <p><img src="http://ximg.es/60/666666/ffffff&text=1" alt="" /><h4>Person1</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores sequi sint ipsa alias amet. Numquam voluptatum maiores. Ab repellat dolores quo quas quam quasi voluptatem delectus aperiam. Deleniti accusamus dolore!</p>
+  	    </article>
+  	    <article class="person">
+  		      <p><img src="http://ximg.es/60/666666/ffffff&text=2" alt="" /><h4>Person2</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat quis veniam accusantium molestias rerum distinctio a quidem numquam illo veritatis recusandae odit consectetur esse nobis alias earum quia omnis sed!</p>
+  	    </article>
+  	     <article class="person">
+  		       <p><img src="http://ximg.es/60/666666/ffffff&text=3" alt="" /><h4>Person3</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem repellendus pariatur esse vel ex iure id sunt voluptatibus atque ut commodi ad aliquam assumenda. Facilis soluta cumque mollitia officiis dolorum!</p>
+  	     </article>
+  	    <article class="person">
+             <p><img src="http://ximg.es/60/666666/ffffff&text=4" alt="" /><h4>Person4</h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis harum suscipit ducimus quisquam doloremque dolorum tenetur dolore libero optio quam delectus blanditiis dicta fuga impedit commodi adipisci aperiam?</p>
+  	    </article>
+    </section>
 
-
-  <div class="container ">
-    <div class="newHike">
+  <section class="contact-us">
+    <div class="new-hike">
 
         <h2 style="text-align:center;">Add a New Trail</h2>
         <p> If your favorite trail is not on the list, add it to the form.</p>
 
-      <form id='newHikeForm'>
+      <form id='new-hike-form'>
         <label>Hiking Trail Name:</label>
         <input type="text" class="form-control" id="new-hike" value =""><br>
 
@@ -72,26 +75,28 @@
         <input type="text" class="form-control" id="new-longitude" value =""><br>
 
         <input class="submit-button" type="submit">
-
       </form>
     </div>
-</div>
-</div>
 
-  <section class="weather-bar">The current weather and 5-day forecast will go here</section>
-  <body>
+  <section class="weather-bar">
+    The current weather and 5-day forecast will go here
+  </section>
+
     <main>
-      <ul class="bxslider">
-        <li>
-            <h1 class="title">Northwest Adventure</h1>
-          <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-        <li>
+      <section id="slider">
+        <ul class="bxslider">
+          <li>
+              <h1 class="title">Northwest Adventure</h1>
+              <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+          <li>
             <h1 class="title">Ready to Hike</h1>
           <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-        <li>
+          <li>
             <h1 class="title">Choose a Trail</h1>
           <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-      </ul>
+        </ul>
+      </section>
+
     <section id="filter-box">
       <article>
         <h1>Select Your Search Radius</h1>
@@ -145,26 +150,27 @@
     <div id="resultsMap"></div>
       <iframe src="" width="300" height="300"></iframe>
     </div>
-</main>
+  </main>
 
-<script src="vendor/page.js"></script>
-<script src="vendor/jquery-1.12.2.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js"></script>
-<script src="https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyA2-jo2B7cFajgxr2sACVo7fNgWg1z48h"></script>
-<script src="https://maps.googleapis.com/maps/api/js"></script>
-<script src="vendor/html5sql.js"></script>
-<script src="vendor/webdb.js"></script>
-<script src="vendor/markercluster.js"></script>
-<script src="scripts/trailhead.js"></script>
-<script src="scripts/trailheadController.js"></script>
-<script src="scripts/Model/markers.js"></script>
-<script src="scripts/Model/Map.js"></script>
-<script src="scripts/View/mapView.js"></script>
-<script src="scripts/View/trailsView.js"></script>
-<script src="scripts/View/resultsMap.js"></script>
-<script src="scripts/Controller/routes.js"></script>
-<script src="scripts/jqueryslider.js"></script>
-</body>
-<footer></footer>
-
+  </div>
+  </div>
+  <script src="vendor/page.js"></script>
+  <script src="vendor/jquery-1.12.2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js"></script>
+  <script src="https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyA2-jo2B7cFajgxr2sACVo7fNgWg1z48h"></script>
+  <script src="https://maps.googleapis.com/maps/api/js"></script>
+  <script src="vendor/html5sql.js"></script>
+  <script src="vendor/webdb.js"></script>
+  <script src="vendor/markercluster.js"></script>
+  <script src="scripts/trailhead.js"></script>
+  <script src="scripts/trailheadController.js"></script>
+  <script src="scripts/Model/markers.js"></script>
+  <script src="scripts/Model/Map.js"></script>
+  <script src="scripts/View/mapView.js"></script>
+  <script src="scripts/View/trailsView.js"></script>
+  <script src="scripts/View/resultsMap.js"></script>
+  <script src="scripts/Controller/routes.js"></script>
+  <script src="scripts/jqueryslider.js"></script>
+  <footer></footer>
+  </body>
 </html>
