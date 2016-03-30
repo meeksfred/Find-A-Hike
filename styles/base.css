@@ -22,22 +22,27 @@ li a {
 
 .title {
   font-family: "Montserrat";
-  font-size: 25px;
+  font-size: 20px;
   color: Black;
 }
 
 
 .newHike{
+  clear: both;
+  margin: 1em;
   font-family: "Montserrat";
   font-size: 15px;
-  border-top: none;
-  border-left: none;
-  border: solid 4px black;
+  border: black 2px solid;
+  padding-left: 1em;
+  padding-bottom: 2em;
 }
-
-.submit-button{
+.submit-button {
   background-color: green;
   font-family: "Montserrat";
   color: white;
   font-size: 15px;
+}
+
+.placeholder-banner {
+  margin: auto;
 }
