@@ -57,8 +57,7 @@
   trailheadController.index = function(ctx, next) {
     $('#radius-filter').hide();
     $('.secondary-filter').show();
-    // $('#googleMap').hide();
-    // $('#resultsMap').show();
+
     startMap.marker.setMap(null);
 
 
@@ -66,7 +65,9 @@
       setMarkers(inst).startMap.marker.setMap('#googleMap');
       console.log(inst);
     });
-
+    trailheadController.distanceFilterListener();
+    trailheadController.elevationFilterListener();
+    trailheadController.ratingFilterListener();
 
 
     next();
@@ -82,7 +83,7 @@
     next();
   };
   trailheadController.createMarkers = function(ctx, next) {
-    var markers = [];
+    markers = [];
     markersModel.resultsMarkers.forEach(function(trail){
       var latLng = new google.maps.LatLng(trail.lat, trail.lng);
       var name = trail.name;
@@ -92,7 +93,6 @@
       var elevMax = trail.elevMax;
       var marker = new google.maps.Marker({'position': latLng, 'name': name, 'rating': rating, 'length': length, 'elevGain': elevGain, 'elevMax': elevMax});
       markers.push(marker);
-      console.log(markers);
     });
     markers.forEach(function(marker) {
       var infowindow = new google.maps.InfoWindow({
@@ -106,24 +106,79 @@
         infowindow.open(startMap.map, marker);
       });
     });
-    var MarkerCluster = new MarkerClusterer(startMap.map, markers);
+    trailheadController.markerCluster = new MarkerClusterer(startMap.map, markers);
     console.log('trails', Trails.all);
     console.log('markers', markersModel.resultsMarkers);
   };
-
-  trailheadController.filterByDistance = function(ctx, next) {
-
+  trailheadController.clearMarkers = function(){
+    markers.forEach(function(marker){
+      marker.setMap(null);
+    });
+    trailheadController.markerCluster.clearMarkers();
+  }
+  trailheadController.filterByDistance = function() {
+    console.log('event fired');
+    trailheadController.clearMarkers();
+    markersModel.resultsMarkers = markersModel.resultsMarkers.filter(function(marker){
+      console.log(marker.length);
+      console.log(trailheadController.selectedDistance);
+      console.log(marker.length < trailheadController.selectedDistance);
+      return marker.length < trailheadController.selectedDistance;
+    });
+    console.log(markersModel.resultsMarkers);
+    trailheadController.createMarkers();
+  }
+  trailheadController.distanceFilterListener = function() {
+    $('#distance-filter').on('change', function(){
+      console.log('event fired');
+      trailheadController.selectedDistance = $('#distance-filter').val();
+      console.log($('#distance-filter').val());
+      trailheadController.filterByDistance();
+    })
+  }
+  trailheadController.filterByElevationGain = function(ctx, next) {
+    console.log('event fired');
+    trailheadController.clearMarkers();
+    markersModel.resultsMarkers = markersModel.resultsMarkers.filter(function(marker){
+      console.log(marker.elevGain);
+      console.log(trailheadController.selectedElev);
+      console.log(marker.elevGain < trailheadController.selectedElev);
+      return marker.elevGain < trailheadController.selectedElev;
+    });
+    console.log(markersModel.resultsMarkers);
+    trailheadController.createMarkers();
   }
 
-  trailheadController.filterByElevationGain = function(ctx, next) {
-
+  trailheadController.elevationFilterListener = function() {
+    $('#elevation-filter').on('change', function(){
+      console.log('event fired');
+      trailheadController.selectedElev = $('#elevation-filter').val();
+      console.log($('#elevation-filter').val());
+      trailheadController.filterByElevationGain();
+    })
   }
 
   trailheadController.filterByRating = function(ctx, next) {
-
+    console.log('event fired');
+    trailheadController.clearMarkers();
+    markersModel.resultsMarkers = markersModel.resultsMarkers.filter(function(marker){
+      console.log(marker.rating);
+      console.log(trailheadController.rating);
+      console.log(marker.rating > trailheadController.selectedRating);
+      return marker.rating > trailheadController.selectedRating;
+    });
+    console.log(markersModel.resultsMarkers);
+    trailheadController.createMarkers();
   }
 
-
+  trailheadController.ratingFilterListener = function() {
+    $('#rating-filter').on('change', function(){
+      console.log('event fired');
+      trailheadController.selectedRating = $('#rating-filter').val();
+      console.log($('#rating-filter').val());
+      trailheadController.filterByRating();
+    })
+  }
 
   module.trailheadController = trailheadController;
 })(window);
