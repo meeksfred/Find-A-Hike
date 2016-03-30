@@ -5,6 +5,7 @@
 
 body {
   background-color: #F1F7ED;
+  font-family: montserrat, sans-serif;
 }
 
 header {
@@ -15,13 +16,13 @@ header {
 
 li a {
   text-decoration: none;
-  font-family: "Montserrat";
   color: white;
   font-size: 20px;
 }
 
+
+
 .title {
-  font-family: "Montserrat";
   font-size: 20px;
   color: Black;
 }
@@ -30,7 +31,6 @@ li a {
 .newHike{
   clear: both;
   margin: 1em;
-  font-family: "Montserrat";
   font-size: 15px;
   border: black 2px solid;
   padding-left: 1em;
@@ -38,7 +38,6 @@ li a {
 }
 .submit-button {
   background-color: green;
-  font-family: "Montserrat";
   color: white;
   font-size: 15px;
 }

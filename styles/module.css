@@ -50,6 +50,12 @@ right: 2%;
   border-bottom: 1px solid #ccc;
 }
 
+.logo {
+  width: 200px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+
 @media only screen and (min-width: 635px),
         only screen and (min-width: 600px) and (orientation: landscape) {
 
@@ -73,9 +79,6 @@ right: 2%;
   .main-nav ul li:hover a {
     color: #29506D;
   }
-
-
-
 
   /* 1 column: 320px */
   .team {
