@@ -21,7 +21,23 @@ li a {
 }
 
 .title {
-  font-family: "Lato";
+  font-family: "Montserrat";
   font-size: 25px;
   color: Black;
+}
+
+
+.newHike{
+  font-family: "Montserrat";
+  font-size: 15px;
+  border-top: none;
+  border-left: none;
+  border: solid 4px black;
+}
+
+.submit-button{
+  background-color: green;
+  font-family: "Montserrat";
+  color: white;
+  font-size: 15px;
 }
