@@ -1,5 +1,3 @@
-//var map
-
 (function(module){
   var startMap = {};
   startMap.map = {};
