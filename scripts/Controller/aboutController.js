@@ -9,7 +9,7 @@
     $('.contact-us').hide();
     $('.weather-bar').hide();
     $('.team').show();
-  };
+  }
 
   module.aboutController = aboutController;
-})(window);
+})(window)
