@@ -47,7 +47,6 @@
     webDB.execute('SELECT * FROM trails', function(tableRows) {
       if (tableRows.length) {
         Trails.grabTableData(tableRows);
-        // cb();
       } else {
         $.getJSON('/data/trailheadData.json', function(myData) {
           myData.forEach(function(instance) {
