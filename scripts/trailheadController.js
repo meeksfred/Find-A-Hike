@@ -45,7 +45,6 @@
 
   trailheadController.load = function() {
     console.log('made it to load');
-    $('#resultsMap').hide();
     $('.secondary-filter').hide();
     $('#radius-filter').show();
 
@@ -55,6 +54,7 @@
 
   trailheadController.index = function(ctx, next) {
     $('#radius-filter').hide();
+    $('#all-secondary-filters').show();
     $('.secondary-filter').show();
 
     startMap.marker.setMap(null);
