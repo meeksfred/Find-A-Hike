@@ -11,6 +11,6 @@
     $('.weather-bar').show();
 
     next();
-  }
+  };
   module.homeController = homeController;
-})(window)
+})(window);

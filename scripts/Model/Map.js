@@ -25,4 +25,4 @@
 
 
   module.startMap = startMap;
-})(window)
+})(window);
