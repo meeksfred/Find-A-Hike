@@ -82,10 +82,30 @@
     var markers = [];
     markersModel.resultsMarkers.forEach(function(trail){
       var latLng = new google.maps.LatLng(trail.lat, trail.lng);
-      var marker = new google.maps.Marker({'position': latLng});
+      var name = trail.name;
+      var rating = trail.rating;
+      var length = trail.length;
+      var elevGain = trail.elevGain;
+      var elevMax = trail.elevMax;
+      var marker = new google.maps.Marker({'position': latLng, 'name': name, 'rating': rating, 'length': length, 'elevGain': elevGain, 'elevMax': elevMax});
       markers.push(marker);
+      console.log(markers);
     });
+    markers.forEach(function(marker) {
+      var infowindow = new google.maps.InfoWindow({
+        content: "<p><strong>Name:</strong> " + marker.name + "</p>" +
+                 "<p><strong>Rating:</strong> " + marker.rating + "</p>" +
+                 "<p><strong>Length(mi):</strong> " + marker.length + "</p>" +
+                 "<p><strong>Elevation Gain(ft):</strong> " + marker.elevGain + "</p>" +
+                 "<p><strong>Elevation Max(ft):</strong> " + marker.elevMax + "</p>"
+      });
+      marker.addListener('click', function() {
+        infowindow.open(startMap.map, marker);
+      });
+    });
+    console.log(markers[0].name);
     var MarkerCluster = new MarkerClusterer(startMap.map, markers);
+
     console.log('trails', Trails.all);
     console.log('markers', markersModel.resultsMarkers);
   };
