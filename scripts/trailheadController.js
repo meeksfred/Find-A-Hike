@@ -79,6 +79,13 @@
     markersModel.resultsMarkers = Trails.all.filter(function(trail){
       return haversineDistance(mapView.chosenLat, mapView.chosenLng, trail.lat, trail.lng, true) <= $radiusVal;
     });
+    var markers = [];
+    markersModel.resultsMarkers.forEach(function(trail){
+      var latLng = new google.maps.LatLng(trail.lat, trail.lng);
+      var marker = new google.maps.Marker({'position': latLng});
+      markers.push(marker);
+    });
+    var MarkerCluster = new MarkerClusterer(startMap.map, markers);
     console.log('trails', Trails.all);
     console.log('markers', markersModel.resultsMarkers);
   };
