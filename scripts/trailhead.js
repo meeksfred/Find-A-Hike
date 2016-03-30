@@ -1,15 +1,9 @@
 (function(module) {
-  function Trails (opts) {
-    this.rating = opts.rating;
-    this.length = opts.length;
-    this.kml = opts.kml;
-    this.features = opts.features;
-    this.name = opts.name;
-    this.lat = opts.lat;
-    this.lng = opts.lng;
-    this.elevGain = opts.elevGain;
-    this.id = opts.id;
-    this.elevMax = opts.elevMax;
+
+  function Trails(opts) {
+    Object.keys(opts).forEach(function(e, index, keys) {
+      this[e] = opts[e];
+    },this);
   }
 
   Trails.all = [];
@@ -46,8 +40,8 @@
   Trails.grabTableData = function(tableRows) {
     Trails.all = tableRows.map(function(inst) {
       return new Trails(inst);
-    })
-  }
+    });
+  };
 
   Trails.grabData = function(cb) {
     webDB.execute('SELECT * FROM trails', function(tableRows) {
@@ -68,10 +62,6 @@
       }
     });
   };
-
-
-
-
 
   module.Trails = Trails;
 

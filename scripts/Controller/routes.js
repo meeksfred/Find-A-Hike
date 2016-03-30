@@ -8,7 +8,7 @@ page('/search', trailheadController.index,
                 trailheadController.filterByRadius,
                 trailheadController.createMarkers);
 
-page('/about',aboutController.index)
+page('/about',aboutController.index);
 
-page('/contact', contactController.index)
+page('/contact', contactController.index);
 page();
