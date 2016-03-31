@@ -2,6 +2,7 @@
   var homeController = {};
 
   homeController.index = function(ctx, next){
+    simpleweather.loadAll();
     $('.contact-us').hide();
     $('.team').hide();
     $('#filter-box').show();
@@ -12,6 +13,6 @@
     $('.weather-bar').show();
 
     next();
-  }
+  };
   module.homeController = homeController;
-})(window)
+})(window);

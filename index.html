@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="vendor/styles/normalize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="vendor/styles/simpleweather.css">
     <link rel="stylesheet" href="styles/base.css">
     <link rel="stylesheet" href="styles/module.css">
     <link rel="stylesheet" href="styles/layout.css">
@@ -74,8 +75,9 @@
       </form>
     </div>
   </section>
-  <section class="weather-bar">
-    The current weather and 5-day forecast will go here
+  <section id="weather-bar">
+    <div id="weather"></div>
+      <button class="js-geolocation" style="display: none;">Use Your Location</button>
   </section>
   <section id="slider">
       <ul class="bxslider">
@@ -154,6 +156,8 @@
   <script src="scripts/Model/markers.js"></script>
   <script src="scripts/Model/Map.js"></script>
   <script src="scripts/View/mapView.js"></script>
+  <script src="vendor/jquery.simpleWeather.js"></script>
+  <script src="vendor/simpleweather.js"></script>
   <script src="scripts/Controller/homeController.js"></script>
   <script src="scripts/Controller/aboutController.js"></script>
   <script src="scripts/Controller/contactController.js"></script>
