@@ -95,7 +95,10 @@
   trailheadController.filterByDistance = function() {
     trailheadController.clearMarkers();
     markersModel.resultsMarkers = markersModel.resultsMarkers.filter(function(marker){
-      return marker.length < trailheadController.selectedDistance;
+      if (marker.length) {
+        console.log(marker.name, marker.length, marker.length < trailheadController.selectedDistance, trailheadController.selectedDistance);
+        return marker.length < trailheadController.selectedDistance;
+      }
     });
     trailheadController.createMarkers();
   };
@@ -108,7 +111,10 @@
   trailheadController.filterByElevationGain = function(ctx, next) {
     trailheadController.clearMarkers();
     markersModel.resultsMarkers = markersModel.resultsMarkers.filter(function(marker){
-      return marker.elevGain < trailheadController.selectedElev;
+      if (marker.elevGain){
+        console.log(marker.name, marker.elevGain, marker.elevGain < trailheadController.selectedElev, trailheadController.selectedElev);
+        return marker.elevGain < trailheadController.selectedElev;
+      }
     });
     trailheadController.createMarkers();
   };
@@ -123,7 +129,10 @@
   trailheadController.filterByRating = function(ctx, next) {
     trailheadController.clearMarkers();
     markersModel.resultsMarkers = markersModel.resultsMarkers.filter(function(marker){
-      return marker.rating > trailheadController.selectedRating;
+      if (marker.rating) {
+        console.log(marker.name, marker.rating, marker.rating > trailheadController.selectedRating, trailheadController.selectedRating)
+        return marker.rating > trailheadController.selectedRating;
+      }
     });
     trailheadController.createMarkers();
   };
