@@ -40,6 +40,7 @@
 
   trailheadController.index = function(ctx, next) {
     $('#radius-filter').hide();
+    $('#filter-button').hide();
     $('#all-secondary-filters').show();
     $('.secondary-filter').show();
 

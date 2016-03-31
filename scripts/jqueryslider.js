@@ -1,6 +1,13 @@
-$(document).ready(function(){
-  $('.bxslider').bxSlider({
-    auto: true,
-    autoControls: true
-  });
-});
+(function(module){
+
+  var homeSlider = {};
+
+  homeSlider.go = function(){
+    $('.bxslider').bxSlider({
+      auto: true
+    });
+  };
+
+  module.homeSlider = homeSlider;
+
+})(window);
