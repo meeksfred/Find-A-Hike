@@ -10,7 +10,7 @@
     $('#mapCurrentDisplay').show();
     $('#googleMap').show();
     $('#slider').show();
-    $('.weather-bar').show();
+    $('#weather-bar').show();
 
     next();
   };

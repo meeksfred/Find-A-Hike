@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="vendor/styles/normalize.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat">
-    <link rel="stylesheet" href="vendor/styles/simpleweather.css">
     <link rel="stylesheet" href="styles/base.css">
     <link rel="stylesheet" href="styles/module.css">
     <link rel="stylesheet" href="styles/layout.css">
@@ -16,7 +15,7 @@
   <body>
     <header>
       <div>
-        <a href="#"><img src="img/logo.png" class="logo"/></a>
+        <img src="img/logo.png" class="logo">
         <nav class="main-nav">
           <span class="icon-menu"></span>
           <ul class="navigation">
@@ -43,126 +42,132 @@
   	    </article>
     </section>
 
-  <section class="contact-us">
-    <div class="new-hike">
+    <section class="contact-us">
+      <div class="new-hike">
 
-        <h2 style="text-align:center;">Add a New Trail</h2>
-        <p> If your favorite trail is not on the list, add it to the form.</p>
+          <h2 style="text-align:center;">Add a New Trail</h2>
+          <p> If your favorite trail is not on the list, add it to the form.</p>
 
-      <form id='new-hike-form'>
-        <label>Hiking Trail Name:</label>
-        <input type="text" class="form-control" id="new-hike" value =""><br>
+        <form id='new-hike-form'>
+          <label>Hiking Trail Name:</label>
+          <input type="text" class="form-control" id="new-hike" value =""><br>
 
-        <label>Rating (0-5):</label>
-        <input type="text" class="form-control" id="new-rating" value =""><br>
+          <label>Rating (0-5):</label>
+          <input type="text" class="form-control" id="new-rating" value =""><br>
 
-        <label>Length (miles):</label>
-        <input type="text" class="form-control" id="new-length" value =""><br>
+          <label>Length (miles):</label>
+          <input type="text" class="form-control" id="new-length" value =""><br>
 
-        <label>Elevation gain (feet):</label>
-        <input type="text" class="form-control" id="new-elev-gain" value =""><br>
+          <label>Elevation gain (feet):</label>
+          <input type="text" class="form-control" id="new-elev-gain" value =""><br>
 
-        <label>Maximum Elevation (feet):</label>
-        <input type="text" class="form-control" id="new-max-elev" value =""><br>
+          <label>Maximum Elevation (feet):</label>
+          <input type="text" class="form-control" id="new-max-elev" value =""><br>
 
-        <label>Latitude:</label>
-        <input type="text" class="form-control" id="new-latitude" value =""><br>
+          <label>Latitude:</label>
+          <input type="text" class="form-control" id="new-latitude" value =""><br>
 
-        <label>Longitude:</label>
-        <input type="text" class="form-control" id="new-longitude" value =""><br>
+          <label>Longitude:</label>
+          <input type="text" class="form-control" id="new-longitude" value =""><br>
 
-        <input class="submit-button" type="submit">
-      </form>
-    </div>
-  </section>
-  <section id="weather-bar">
-    <div id="weather"></div>
-      <button class="js-geolocation" style="display: none;">Use Your Location</button>
-  </section>
-  <section id="slider">
+          <input class="submit-button" type="submit">
+        </form>
+      </div>
+    </section>
+    <section id="weather-bar">
+      <div id="weather"></div>
+        <button class="js-geolocation" style="display: none;">Use Your Location</button>
+    </section>
+    <section id="slider">
       <ul class="bxslider">
         <li>
-            <h1 class="title">Northwest Adventure</h1>
-            <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+          <img src="img/pebbles.png" width=960 height=440 class="placeholder-banner">
+        </li>
         <li>
-            <h1 class="title">Ready to Hike</h1>
-            <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+          <img src="img/hike.png" width=960 height=440 class="placeholder-banner">
+        </li>
         <li>
-            <h1 class="title">Choose a Trail</h1>
-            <img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+          <img src="img/landscape.png" width=960 height=440 class="placeholder-banner">
+        </li>
+        <li>
+          <img src="img/waterfall.png" width=960 height=440 class="placeholder-banner">
+        </li>
+        <li>
+          <img src="img/mountain.png" width=960 height=440 class="placeholder-banner">
+        </li>
       </ul>
-  </section>
-  <section id="filter-box">
-    <article>
-      <h1>Select Your Search Radius</h1>
-      <select id="radius-filter">
-        <option>--Select a radius--</option>
-        <option value="25">25 miles</option>
-        <option value="50">50 miles</option>
-        <option value="100">100 miles</option>
-        <option value="150">150 miles</option>
-        <option value="200">200 miles</option>
-      </select>
-    </article>
-    <article id="all-secondary-filters">
-      <h1>Refine Your Results</h1>
-        <h2>Maximum Distance(in miles):</h2>
-        <select class="secondary-filter" name="" id="distance-filter">
-          <option>--Select a Maximum Distance--</option>
-          <option value="5">5</option>
-          <option value="10">10</option>
-          <option value="15">15</option>
-          <option value="20">20</option>
-          <option value="100">20+</option>
-        </select>
-        <h2>Maximum Elevation Gain(in feet):</h2>
-        <select class="secondary-filter" name="" id="elevation-filter">
-          <option>--Select a Maximum Elevation Gain--</option>
-          <option value="100">100</option>
-          <option value="500">500</option>
-          <option value="1000">1000</option>
-          <option value="2000">2000</option>
-          <option value="4000">4000</option>
-          <option value="10000">4000+</option>
-        </select>
-        <h2>Minimum Rating:</h2>
-        <select class="secondary-filter" name="" id="rating-filter">
-          <option>--Select a Minimum Rating (Out of 5)--</option>
-          <option value="0">0</option>
-          <option value="1">1</option>
-          <option value="2">2</option>
-          <option value="3">3</option>
-          <option value="4">4</option>
+    </section>
+    <section id="filter-box">
+      <article>
+        <h1>Select Your Search Radius</h1>
+        <select id="radius-filter">
+          <option>--Select a radius--</option>
+          <option value="25">25 miles</option>
+          <option value="50">50 miles</option>
+          <option value="100">100 miles</option>
+          <option value="150">150 miles</option>
+          <option value="200">200 miles</option>
         </select>
       </article>
-      <button id="filter-button" type="button"><a href="/search">Go!</a></button>
-    </section>
-    <div id="mapCurrentDisplay">
-      <h1 class="title">Move the Marker and Choose a Trail!</h1>
-    </div>
-    <div id="googleMap">
-      <iframe src="" width="300" height="300"></iframe>
-    </div>
+      <article id="all-secondary-filters">
+        <h1>Refine Your Results</h1>
+          <h2>Maximum Distance(in miles):</h2>
+          <select class="secondary-filter" name="" id="distance-filter">
+            <option>--Select a Maximum Distance--</option>
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+            <option value="100">20+</option>
+          </select>
+          <h2>Maximum Elevation Gain(in feet):</h2>
+          <select class="secondary-filter" name="" id="elevation-filter">
+            <option>--Select a Maximum Elevation Gain--</option>
+            <option value="100">100</option>
+            <option value="500">500</option>
+            <option value="1000">1000</option>
+            <option value="2000">2000</option>
+            <option value="4000">4000</option>
+            <option value="10000">4000+</option>
+          </select>
+          <h2>Minimum Rating:</h2>
+          <select class="secondary-filter" name="" id="rating-filter">
+            <option>--Select a Minimum Rating (Out of 5)--</option>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+          </select>
+        </article>
+        <button id="filter-button" type="button"><a href="/search">Go!</a></button>
+      </section>
+      <div id="mapCurrentDisplay">
+        <h1 class="title">Move the Marker and Choose a Trail!</h1>
+      </div>
+      <div id="googleMap">
+        <iframe src="" width="300" height="300"></iframe>
+      </div>
 
-  <script src="vendor/page.js"></script>
-  <script src="vendor/jquery-1.12.2.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js"></script>
-  <script src="vendor/html5sql.js"></script>
-  <script src="vendor/webdb.js"></script>
-  <script src="vendor/markercluster.js"></script>
-  <script src="scripts/trailhead.js"></script>
-  <script src="scripts/trailheadController.js"></script>
-  <script src="scripts/Model/markers.js"></script>
-  <script src="scripts/Model/Map.js"></script>
-  <script src="scripts/View/mapView.js"></script>
-  <script src="vendor/jquery.simpleWeather.js"></script>
-  <script src="vendor/simpleweather.js"></script>
-  <script src="scripts/Controller/homeController.js"></script>
-  <script src="scripts/Controller/aboutController.js"></script>
-  <script src="scripts/Controller/contactController.js"></script>
-  <script src="scripts/Controller/routes.js"></script>
-  <script src="scripts/jqueryslider.js"></script>
-  <footer></footer>
+    <script src="vendor/page.js"></script>
+    <script src="vendor/jquery-1.12.2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="vendor/html5sql.js"></script>
+    <script src="vendor/webdb.js"></script>
+    <script src="vendor/markercluster.js"></script>
+    <script src="scripts/trailhead.js"></script>
+    <script src="scripts/trailheadController.js"></script>
+    <script src="scripts/Model/markers.js"></script>
+    <script src="scripts/Model/Map.js"></script>
+    <script src="scripts/View/mapView.js"></script>
+    <script src="vendor/jquery.simpleWeather.js"></script>
+    <script src="vendor/simpleweather.js"></script>
+    <script src="scripts/Controller/homeController.js"></script>
+    <script src="scripts/Controller/aboutController.js"></script>
+    <script src="scripts/Controller/contactController.js"></script>
+    <script src="scripts/Controller/routes.js"></script>
+    <script src="scripts/jqueryslider.js"></script>
+    <footer></footer>
   </body>
 </html>
