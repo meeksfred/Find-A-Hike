@@ -7,7 +7,7 @@
     $('#googleMap').hide();
     $('#slider').hide();
     $('.team').hide();
-    $('.weather-bar').hide();
+    $('#weather-bar').hide();
     $('.contact-us').show();
   }
 
