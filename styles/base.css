@@ -101,3 +101,10 @@ footer {
   text-align: center;
   margin: auto;
 }
+
+.profile-photo {
+  max-width: 120px;
+  max-height: 120px;
+  border-radius: 150px;
+  border: 5px solid white;
+}

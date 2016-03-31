@@ -16,7 +16,7 @@
       draggable: true
     });
 
-    startMap.map = new google.maps.Map(document.getElementById("googleMap"),startMap.mapProp);
+    startMap.map = new google.maps.Map(document.getElementById('googleMap'),startMap.mapProp);
     next();
   };
 
