@@ -74,6 +74,12 @@ right: 2%;
   margin-left: 10px;
 }
 
+.team {
+  margin-left: 10%;
+  margin-right: 10%;
+  display: block;
+}
+
 @media only screen and (min-width: 508px),
         only screen and (min-width: 508px) and (orientation: landscape) {
 
@@ -106,62 +112,9 @@ right: 2%;
     color: #29506D;
   }
 
-  /* 1 column: 320px */
-  .team {
-    margin: 0 auto;
-  	width: 98%;
-  }
-  .team img {
-    float: left;
-    margin: 0 .75rem 0 0;
-  }
-  .team .person {
-    background-color: lightgrey;
-    border-radius: .25rem;
-    margin-bottom: 1rem;
-  }
-  .team .person p {
-    padding: .25rem .75rem;
-  }
-
-  /* 2 columns: 600px */
   @media only screen and (min-width: 600px) {
-    .team .person {
-  		float: left;
-  		margin-right: 2.564102564102564%;
-  		width: 48.717948717948715%;
-  	}
-  	.team .person:nth-child(2n+0) {
-  		margin-right: 0;
-  	}
     .placeholder-banner {
       max-height: 440px;
       max-width: 900px;
     }
-  }
-
-  /* 3 columns: 768px */
-  @media only screen and (min-width: 768px) {
-    .team .person {
-  		width: 31.623931623931625%;
-  	}
-  	.team .person:nth-child(2n+0) {
-  		margin-right: 2.564102564102564%;
-  	}
-  	.team .person:nth-child(3n+0) {
-  		margin-right: 0;
-  	}
-  }
-
-  /* 4 columns: 992px and up */
-  @media only screen and (min-width: 992px) {
-    .team .person {
-  		width: 23.076923076923077%;
-  	}
-  	.team .person:nth-child(3n+0) {
-  		margin-right: 2.564102564102564%;
-  	}
-  	.team .person:nth-child(4n+0) {
-  		margin-right: 0;
-  	}
   }

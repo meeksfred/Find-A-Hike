@@ -6,15 +6,16 @@
     homeSlider.go();
     $('.contact-us').hide();
     $('.team').hide();
+    $('#all-secondary-filters').hide();
+    $('#slider').show();
     $('#filter-box').show();
     $('#filter-button').show();
-    $('#all-secondary-filters').hide();
     $('#mapCurrentDisplay').show();
     $('#googleMap').show();
-    $('#slider').show();
     $('#weather-bar').show();
 
     next();
   };
+
   module.homeController = homeController;
 })(window);
