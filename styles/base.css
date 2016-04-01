@@ -51,6 +51,7 @@ footer {
 
 .marker-drag {
   text-align: center;
+  margin-bottom: 10px;
 }
 
 #weather ul li {

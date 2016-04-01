@@ -4,7 +4,6 @@
 
   homeSlider.go = function(){
     $('.bxslider').bxSlider({
-      auto: true
     });
   };
 
