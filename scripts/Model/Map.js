@@ -1,5 +1,3 @@
-//var map
-
 (function(module){
   var startMap = {};
   startMap.map = {};
@@ -9,6 +7,7 @@
     startMap.mapProp = {
       center: myLatlng,
       zoom:7,
+      minZoom: 6
     };
     startMap.marker = new google.maps.Marker({
       position: myLatlng,
@@ -17,10 +16,10 @@
       draggable: true
     });
 
-    startMap.map = new google.maps.Map(document.getElementById("googleMap"),startMap.mapProp);
+    startMap.map = new google.maps.Map(document.getElementById('googleMap'),startMap.mapProp);
     next();
   };
 
 
   module.startMap = startMap;
-})(window)
+})(window);

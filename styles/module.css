@@ -1,14 +1,15 @@
 #mapCurrentDisplay {
   padding-top: 25px;
   height: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   padding-bottom: 10px;
 }
 
 #googleMap {
-  margin-top: 15px;
   padding-top: 0px;
   height: 380px;
+  max-width: 80%;
+  margin: auto;
 }
 
 #googleMap img {
@@ -16,26 +17,36 @@
 }
 
 .bx-wrapper {
-    margin-top: 3em;
-  }
-    /* padding-top: 30px; */
-/*.gmnoprint {
-  display: none !important;
-} */
+  border: none;
+  background: #F1F7ED;
+  box-shadow: none;
+}
+
+#slider {
+  margin: auto;
+  padding: 0;
+}
+
 .icon-menu {
 font-size: 3em;
 float: right;
 position: absolute;
-top: 3%;
+top: 1%;
 right: 2%;
+
 }
 
 .main-nav {
   padding: 0.1em;
   float: right;
+  margin-top: 1em;
 }
 
 .main-nav ul {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
   display: none;
   padding: 0;
   list-style: none;
@@ -43,36 +54,67 @@ right: 2%;
 }
 
 .main-nav:hover ul {
+  color: black;
+  width: 100%;
   display: block;
 }
 
 .main-nav li {
-  margin-right: .4em;
-  font-size: 1em;
-  padding: .5em .2em;
-  border-bottom: 1px solid #ccc;
+  margin-left: 1em;
+  margin-right: 1em;
+  display: inline;
+  font-size: .5em;
+  padding: .1em .1em;
+  color: black;
 }
 
-@media only screen and (min-width: 635px),
-        only screen and (min-width: 600px) and (orientation: landscape) {
+.logo {
+  width: 200px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+
+.team {
+  margin-left: 10%;
+  margin-right: 10%;
+  display: block;
+}
+
+@media only screen and (min-width: 508px),
+        only screen and (min-width: 508px) and (orientation: landscape) {
 
   .icon-menu {
     display: none;
   }
 
   .main-nav {
-    padding: .2em .2em .2em 2em;
+    margin-top: 0;
+    position: absolute;
+    top: 20%;
+    right: 0%;
+  }
+
+  li a {
+    color: white;
   }
 
   .main-nav ul {
-    display: block;
+    display: inline;
   }
 
   .main-nav ul li {
     display: inline;
     border-bottom: none;
+    color:black;
   }
 
   .main-nav ul li:hover a {
     color: #29506D;
+  }
+
+  @media only screen and (min-width: 600px) {
+    .placeholder-banner {
+      max-height: 440px;
+      max-width: 900px;
+    }
   }

@@ -9,56 +9,93 @@
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat">
     <link rel="stylesheet" href="styles/base.css">
     <link rel="stylesheet" href="styles/module.css">
+    <link rel="stylesheet" href="styles/layout.css">
     <link rel="stylesheet" href="vendor/icon.css">
   </head>
-  <header>
-    <div>
-      <img src="https://placeholdit.imgix.net/~text?txtsize=33&txt=LOGO-PLACEHOLDER&w=200&h=75" />
-      <nav class="main-nav">
-        <span class="icon-menu"></span>
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Contact Us</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
-
-  <div class="team">
-  <h1>Team Members</h1>
-  <ul>
-    <li class="person">
-      <h4>Person's Name</h4>
-      <img>Person's Photo</img>
-      <p>Short bio of person</p>
-    </li>
-    <li class="person">
-      <h4>Person's Name</h4>
-      <img>Person's Photo</img>
-      <p>Short bio of person</p>
-    </li>
-    <li class="person">
-      <h4>Person's Name</h4>
-      <img>Person's Photo</img>
-      <p>Short bio of person</p>
-    </li>
-    <li class="person">
-      <h4>Person's Name</h4>
-      <img>Person's Photo</img>
-      <p>Short bio of person</p>
-    </li>
-  </ul>
-</div>
-
-  <section class="weather-bar">The current weather and 5-day forecast will go here</section>
   <body>
-    <main>
+    <header>
+      <div>
+        <img src="img/logo.png" class="logo">
+        <nav class="main-nav">
+          <span class="icon-menu"></span>
+          <ul class="navigation">
+            <li class="nav-item"><a href="/">Home</a></li>
+            <li class="nav-item"><a href="/about">About</a></li>
+            <li class="nav-item"><a href="/contact">Contact Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <section class="team">
+      <h1>Team Members</h1>
+	    <article class="person">
+        <p><img src="img/zach.png" alt="zach-photo" class="profile-photo"/><h4>Zach Simonson</h4>Zach is a novice hiker and an advanced talker. He prefers stage lights to natural light. He also once fell off a small cliff near Gothic Basin. He has a cat.</p>
+	    </article>
+	    <article class="person">
+		      <p><img src="img/max.png" alt="max-photo" class="profile-photo"/><h4>Max Friedrichsen</h4>Born and raised in Seattle, Max is an avid hiker ready to take on new challenges. With plans to hike Mt. St Helens and Mt. Si in the summer, he has lots to train for. After a brief career bartending in the Seattle area, Max is interested in becoming a full-time developer. Other interests include numerous sports, video games, pizza and beer. Tasty beers.</p>
+	    </article>
+	    <article class="person">
+		       <p><img src="img/susan.png" alt="susan-photo" class="profile-photo"/><h4>Susan Harrison</h4>Susan has been an ABE instructor for the past 10 year and has decided to make a career change. She enjoyed learning how to make dynamically generated websites during the Code 301 class. On her spare time, she enjoys photography and videography.</p>
+	    </article>
+	    <article class="person">
+           <p><img src="img/jeff.png" alt="jeff-photo" class="profile-photo"/><h4>Jeff Eng</h4>Jeff is born and raised in Seattle, and enjoys getting outdoors to run or bike when not sitting in front of a computer learning how to code.  After spending the past 8 years in accounting with a life insurance company, he is ready for web development career.  While not really a hiker, he does enjoy the beautiful views and scenery of the Pacific Northwest.</p>
+	    </article>
+    </section>
+
+    <section class="contact-us">
+      <div class="new-hike">
+
+          <h2 style="text-align:center;">Add a New Trail</h2>
+          <p> If your favorite trail is not on the list, add it to the form.</p>
+
+        <form id='new-hike-form' enctype="text/plain" action="mailto:maxfred0025@gmail.com" method="post">
+          <label>Trailhead Name:</label>
+          <input type="text" class="form-control" id="new-hike" value =""><br>
+
+          <label>Rating (0-5):</label>
+          <input type="text" class="form-control" id="new-rating" value =""><br>
+
+          <label>Length (miles):</label>
+          <input type="text" class="form-control" id="new-length" value =""><br>
+
+          <label>Elevation gain (feet):</label>
+          <input type="text" class="form-control" id="new-elev-gain" value =""><br>
+
+          <label>Maximum Elevation (feet):</label>
+          <input type="text" class="form-control" id="new-max-elev" value =""><br>
+
+          <label>Latitude:</label>
+          <input type="text" class="form-control" id="new-latitude" value =""><br>
+
+          <label>Longitude:</label>
+          <input type="text" class="form-control" id="new-longitude" value =""><br>
+
+          <input class="submit-button" type="submit">
+        </form>
+      </div>
+    </section>
+    <section id="weather-bar">
+      <div id="weather"></div>
+    </section>
+    <section id="slider">
       <ul class="bxslider">
-        <li><img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-        <li><img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
-        <li><img src="https://placeholdit.imgix.net/~text?txtsize=90&bg=000000&txt=960%C3%97400&w=960&h=400" class="placeholder-banner" /></li>
+        <li>
+          <img src="img/pebbles.png" width=900 height=440 class="placeholder-banner">
+        </li>
+        <li>
+          <img src="img/hike.png" width=900 height=440 class="placeholder-banner">
+        </li>
+        <li>
+          <img src="img/landscape.png" width=900 height=440 class="placeholder-banner">
+        </li>
+        <li>
+          <img src="img/waterfall.png" width=900 height=440 class="placeholder-banner">
+        </li>
+        <li>
+          <img src="img/mountain.png" width=900 height=440 class="placeholder-banner">
+        </li>
       </ul>
+    </section>
     <section id="filter-box">
       <article>
         <h1>Select Your Search Radius</h1>
@@ -71,65 +108,69 @@
           <option value="200">200 miles</option>
         </select>
       </article>
-      <article>
+      <article id="all-secondary-filters">
         <h1>Refine Your Results</h1>
-        <h2>Distance(in miles):</h2>
-        <select class="secondary-filter" name="" id="distance-filter">
-          <option>--Select a Distance Range--</option>
-          <option value="0">0-5</option>
-          <option value="5">5-10</option>
-          <option value="10">10-15</option>
-          <option value="15">15-20</option>
-          <option value="20">20+</option>
-        </select>
-        <h2>Elevation Gain(in feet):</h2>
-        <select class="secondary-filter" name="" id="elevation-filter">
-          <option>--Select an Elevation Range--</option>
-          <option value="0">0-500</option>
-          <option value="500">500-1000</option>
-          <option value="1000">1000-1500</option>
-          <option value="1500">1500-2000</option>
-          <option value="2000">2000-3000</option>
-          <option value="3000">3000+</option>
-        </select>
-        <h2>Rating:</h2>
-        <select class="secondary-filter" name="" id="rating-filter">
-          <option>--Select a Rating--</option>
-          <option value="0">0-1</option>
-          <option value="1">1-2</option>
-          <option value="2">2-3</option>
-          <option value="3">3-4</option>
-          <option value="4">4-5</option>
-        </select>
-      </article>
-      <button id="filter-button" type="button"><a href="/search">Go!</a></button>
-    </section>
-    <div id="mapCurrentDisplay"></div>
-    <div id="googleMap">
-      <iframe src="" width="300" height="300"></iframe>
-    </div>
-    <div id="resultsMap"></div>
-      <iframe src="" width="300" height="300"></iframe>
-    </div>
-</main>
+          <h2>Maximum Distance(in miles):</h2>
+          <select class="secondary-filter" name="" id="distance-filter">
+            <option>--Select a Maximum Distance--</option>
+            <option value="5">5</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+            <option value="100">20+</option>
+          </select>
+          <h2>Maximum Elevation Gain(in feet):</h2>
+          <select class="secondary-filter" name="" id="elevation-filter">
+            <option>--Select a Maximum Elevation Gain--</option>
+            <option value="100">100</option>
+            <option value="500">500</option>
+            <option value="1000">1000</option>
+            <option value="2000">2000</option>
+            <option value="4000">4000</option>
+            <option value="10000">4000+</option>
+          </select>
+          <h2>Minimum Rating:</h2>
+          <select class="secondary-filter" name="" id="rating-filter">
+            <option>--Select a Minimum Rating (Out of 5)--</option>
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+          </select>
+        </article>
+        <button id="filter-button" type="button"><a href="/search">Go!</a></button>
+      </section>
+      <div id="mapCurrentDisplay">
+        <h1 class="title">Move the Marker and Choose a Trail!</h1>
+      </div>
+      <div id="googleMap">
+        <iframe src="" width="300" height="300"></iframe>
+      </div>
 
-<script src="vendor/page.js"></script>
-<script src="vendor/jquery-1.12.2.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js"></script>
-<script src="https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyA2-jo2B7cFajgxr2sACVo7fNgWg1z48h"></script>
-<script src="https://maps.googleapis.com/maps/api/js"></script>
-<script src="vendor/html5sql.js"></script>
-<script src="vendor/webdb.js"></script>
-<script src="scripts/trailhead.js"></script>
-<script src="scripts/trailheadController.js"></script>
-<script src="scripts/Model/markers.js"></script>
-<script src="scripts/Model/Map.js"></script>
-<script src="scripts/View/mapView.js"></script>
-<script src="scripts/View/trailsView.js"></script>
-<script src="scripts/View/resultsMap.js"></script>
-<script src="scripts/Controller/routes.js"></script>
-<script src="scripts/jqueryslider.js"></script>
-</body>
-<footer></footer>
-
+    <script src="vendor/page.js"></script>
+    <script src="vendor/jquery-1.12.2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="vendor/html5sql.js"></script>
+    <script src="vendor/webdb.js"></script>
+    <script src="vendor/markercluster.js"></script>
+    <script src="scripts/Model/trailhead.js"></script>
+    <script src="scripts/Controller/trailheadController.js"></script>
+    <script src="scripts/Model/markers.js"></script>
+    <script src="scripts/Model/Map.js"></script>
+    <script src="scripts/View/mapView.js"></script>
+    <script src="vendor/jquery.simpleWeather.js"></script>
+    <script src="vendor/simpleweather.js"></script>
+    <script src="scripts/View/jqueryslider.js"></script>
+    <script src="scripts/Controller/homeController.js"></script>
+    <script src="scripts/Controller/aboutController.js"></script>
+    <script src="scripts/Controller/contactController.js"></script>
+    <script src="scripts/Controller/routes.js"></script>
+    <footer>
+       Published by Max, Susan, Jeff, Zach
+       <br>
+       &copy; 2016 Find-A-Hike All Rights Reserved
+    </footer>
+  </body>
 </html>

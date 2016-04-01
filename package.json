@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/meeksfred/Find-A-Hike#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "weather.js": "0.0.2"
   }
 }
