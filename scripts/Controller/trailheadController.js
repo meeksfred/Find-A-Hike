@@ -85,7 +85,9 @@
         infowindow.open(startMap.map, marker);
       });
     });
-    trailheadController.markerCluster = new MarkerClusterer(startMap.map, markers);
+    trailheadController.markerCluster = new MarkerClusterer(startMap.map, markers, {
+      imagePath: 'https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/images/m'
+    });
   };
   trailheadController.clearMarkers = function(){
     markers.forEach(function(marker){
